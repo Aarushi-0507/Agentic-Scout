@@ -1,0 +1,1001 @@
+Date,Region,Product_Category,Customer_Segment,Marketing_Spend,Discount_Pct,Unit_Price,Units_Sold,Shipping_Cost,Revenue,Profit
+2023-01-01,North America,Electronics,Enterprise,2205.39,15.0,95.0,49,101.58,3956.75,1186.79
+2023-01-01,Latin America,Home & Office,Enterprise,1839.14,5.0,150.0,54,111.75,7695.0,3406.23
+2023-01-02,Asia-Pacific,Apparel,Small Business,2341.47,0.0,95.0,48,99.31,4560.0,1575.5
+2023-01-03,Europe,Industrial Supplies,Enterprise,1576.23,0.0,299.0,30,72.57,8970.0,3653.45
+2023-01-03,North America,Industrial Supplies,Enterprise,1174.06,0.0,45.0,26,65.16,1170.0,248.14
+2023-01-04,North America,Industrial Supplies,Small Business,1495.0,15.0,95.0,34,74.43,2745.5,633.03
+2023-01-05,North America,Industrial Supplies,Mid-Market,833.24,5.0,150.0,27,63.89,3847.5,1901.11
+2023-01-06,Asia-Pacific,Industrial Supplies,Small Business,,0.0,150.0,15,40.64,2250.0,1064.69
+2023-01-06,Europe,Electronics,Enterprise,1030.51,0.0,95.0,32,73.83,3040.0,1263.57
+2023-01-07,Asia-Pacific,Home & Office,Mid-Market,2647.76,5.0,95.0,53,111.42,4783.25,1980.78
+2023-01-08,North America,Electronics,Enterprise,1080.68,20.0,299.0,52,110.22,12438.4,5249.1
+2023-01-09,Latin America,Apparel,Enterprise,559.41,5.0,45.0,62,,2650.5,1050.86
+2023-01-09,Asia-Pacific,Apparel,Small Business,1301.38,25.0,299.0,57,123.47,12782.25,5477.99
+2023-01-10,North America,Electronics,Enterprise,1073.88,5.0,150.0,38,81.34,5415.0,2559.0
+2023-01-11,North America,Industrial Supplies,Mid-Market,2256.19,0.0,150.0,33,70.98,4950.0,1953.3
+2023-01-11,North America,Apparel,Mid-Market,2564.18,20.0,150.0,73,145.61,8760.0,2651.95
+2023-01-12,North America,Electronics,Mid-Market,1148.78,5.0,45.0,33,71.26,1410.75,252.08
+2023-01-13,Europe,Home & Office,Small Business,1575.55,10.0,150.0,37,78.62,4995.0,1765.24
+2023-01-14,Europe,Apparel,Enterprise,1634.83,25.0,299.0,77,151.6,17267.25,6065.47
+2023-01-14,North America,Electronics,Mid-Market,1368.71,0.0,95.0,32,70.76,3040.0,986.82
+2023-01-15,Europe,Industrial Supplies,Small Business,1255.93,0.0,599.0,19,47.29,11381.0,5127.41
+2023-01-16,North America,Electronics,Mid-Market,882.39,10.0,95.0,36,80.84,3078.0,1305.96
+2023-01-17,North America,Apparel,Small Business,512.01,0.0,45.0,32,71.59,1440.0,636.15
+2023-01-17,North America,Apparel,Enterprise,879.88,0.0,95.0,53,110.04,5035.0,2180.58
+2023-01-18,Europe,Apparel,Mid-Market,1346.62,0.0,599.0,50,106.79,29950.0,15011.28
+2023-01-19,Asia-Pacific,Home & Office,Enterprise,655.0,0.0,95.0,37,80.07,3515.0,1448.82
+2023-01-19,North America,Apparel,Mid-Market,1538.67,15.0,299.0,67,135.07,17028.05,6275.04
+2023-01-20,Europe,Industrial Supplies,Small Business,1445.42,0.0,299.0,18,48.13,5382.0,2314.98
+2023-01-21,Europe,Electronics,Enterprise,1074.76,5.0,95.0,38,79.52,3429.5,1103.16
+2023-01-22,North America,Industrial Supplies,Mid-Market,1231.22,10.0,45.0,28,60.63,1134.0,160.72
+2023-01-22,Europe,Electronics,Enterprise,715.38,5.0,150.0,37,82.29,5272.5,2697.2
+2023-01-23,North America,Home & Office,Mid-Market,2009.51,0.0,95.0,43,93.38,4085.0,1347.72
+2023-01-24,North America,Electronics,Mid-Market,1994.43,15.0,150.0,47,103.73,5992.5,2303.83
+2023-01-25,Latin America,Electronics,Small Business,779.9,0.0,95.0,23,56.72,2185.0,804.54
+2023-01-25,Latin America,Electronics,Mid-Market,791.24,15.0,95.0,38,85.04,3068.5,823.38
+2023-01-26,Asia-Pacific,Industrial Supplies,Mid-Market,885.6,20.0,150.0,38,83.01,4560.0,1379.83
+2023-01-27,North America,Electronics,Enterprise,1788.67,5.0,95.0,41,89.39,3700.25,1257.46
+2023-01-28,North America,Industrial Supplies,Enterprise,1632.53,5.0,95.0,30,72.33,2707.5,890.22
+2023-01-28,Europe,Electronics,Enterprise,2194.34,5.0,95.0,48,97.15,4332.0,1613.01
+2023-01-29,Europe,Electronics,Enterprise,2303.0,5.0,95.0,47,100.43,4241.75,1543.15
+2023-01-30,North America,Home & Office,Small Business,623.7,20.0,95.0,43,96.67,3268.0,991.47
+2023-01-30,Europe,Industrial Supplies,Mid-Market,1760.42,20.0,299.0,44,94.76,10524.8,3244.97
+2023-01-31,North America,Electronics,Mid-Market,2262.39,5.0,95.0,43,95.7,3880.75,1169.69
+2023-02-01,Latin America,Industrial Supplies,Enterprise,1194.46,10.0,95.0,30,67.74,2565.0,973.82
+2023-02-02,North America,Apparel,Small Business,1384.79,20.0,150.0,61,124.74,7320.0,2511.07
+2023-02-02,Europe,Industrial Supplies,Mid-Market,1290.02,25.0,95.0,43,92.47,3063.75,529.7
+2023-02-03,North America,Electronics,Enterprise,1316.51,5.0,95.0,42,86.16,3790.5,1494.5
+2023-02-04,Europe,Electronics,Mid-Market,2006.47,5.0,299.0,38,81.06,10793.9,4751.86
+2023-02-05,Europe,Apparel,Mid-Market,2867.51,0.0,150.0,63,126.21,9450.0,3733.83
+2023-02-05,North America,Electronics,Enterprise,2499.69,25.0,150.0,62,128.24,6975.0,1579.37
+2023-02-06,Latin America,Apparel,Mid-Market,1098.68,0.0,150.0,49,104.94,7350.0,3579.09
+2023-02-07,Asia-Pacific,Home & Office,Mid-Market,1577.8,10.0,45.0,48,102.05,1944.0,293.39
+2023-02-07,Latin America,Apparel,Enterprise,951.01,0.0,150.0,57,119.25,8550.0,4564.51
+2023-02-08,Asia-Pacific,Industrial Supplies,Small Business,998.47,0.0,95.0,20,50.67,1900.0,555.99
+2023-02-09,Europe,Apparel,Small Business,1356.91,5.0,95.0,40,89.4,3610.0,1593.63
+2023-02-10,Latin America,Home & Office,Mid-Market,985.48,25.0,95.0,54,112.22,3847.5,1425.41
+2023-02-10,North America,Industrial Supplies,Mid-Market,1056.72,0.0,45.0,23,56.52,1035.0,162.12
+2023-02-11,North America,Home & Office,Mid-Market,1560.95,10.0,45.0,55,113.47,2227.5,642.85
+2023-02-12,North America,Home & Office,Mid-Market,1749.44,0.0,599.0,42,91.97,25158.0,11811.8
+2023-02-13,North America,Industrial Supplies,Mid-Market,1728.71,0.0,95.0,29,66.36,2755.0,819.31
+2023-02-13,North America,Apparel,Enterprise,1736.37,5.0,95.0,67,137.55,6046.75,2108.99
+2023-02-14,North America,Apparel,Mid-Market,741.33,5.0,45.0,55,111.74,2351.25,696.05
+2023-02-15,Asia-Pacific,Industrial Supplies,Small Business,961.31,0.0,45.0,12,34.4,540.0,25.46
+2023-02-15,North America,Home & Office,Mid-Market,1424.73,5.0,150.0,44,95.57,6270.0,2475.11
+2023-02-16,North America,Home & Office,Enterprise,2216.85,0.0,95.0,49,103.02,4655.0,2055.19
+2023-02-17,Europe,Industrial Supplies,Small Business,3558.69,5.0,95.0,36,78.89,3249.0,703.74
+2023-02-18,North America,Electronics,Enterprise,1606.27,25.0,45.0,59,122.98,1991.25,67.0
+2023-02-18,Asia-Pacific,Electronics,Enterprise,1921.62,20.0,150.0,58,118.19,6960.0,2401.61
+2023-02-19,North America,Home & Office,Enterprise,699.33,5.0,45.0,44,93.8,1881.0,644.81
+2023-02-20,Latin America,Electronics,Mid-Market,1898.79,10.0,45.0,43,95.2,1741.5,251.38
+2023-02-21,Asia-Pacific,Electronics,Small Business,3129.0,20.0,95.0,66,136.88,5016.0,981.35
+2023-02-21,North America,Electronics,Mid-Market,959.61,0.0,95.0,27,66.74,2565.0,858.04
+2023-02-22,North America,Electronics,Enterprise,1073.19,15.0,45.0,48,100.84,1836.0,584.8
+2023-02-23,Asia-Pacific,Electronics,Small Business,2034.23,20.0,150.0,45,98.46,5400.0,1511.85
+2023-02-24,Asia-Pacific,Apparel,Small Business,1416.52,0.0,150.0,41,86.9,6150.0,2452.83
+2023-02-24,Asia-Pacific,Home & Office,Small Business,488.04,0.0,299.0,23,54.59,6877.0,3453.03
+2023-02-25,Asia-Pacific,Home & Office,Enterprise,1104.12,25.0,95.0,63,123.7,4488.75,1624.52
+2023-02-26,North America,Industrial Supplies,Mid-Market,2559.46,5.0,45.0,44,97.55,1881.0,185.1
+2023-02-26,North America,Electronics,Small Business,1226.88,0.0,95.0,28,63.67,2660.0,1093.11
+2023-02-27,North America,Apparel,Small Business,1226.41,0.0,599.0,39,84.95,23361.0,13082.11
+2023-02-28,Asia-Pacific,Industrial Supplies,Enterprise,1977.23,5.0,150.0,30,67.18,4275.0,1340.41
+2023-03-01,Europe,Electronics,Enterprise,1632.14,10.0,150.0,46,99.19,6210.0,2402.92
+2023-03-01,North America,Home & Office,Mid-Market,1196.08,10.0,45.0,54,111.45,2187.0,464.35
+2023-03-02,North America,Apparel,Small Business,1039.53,25.0,95.0,56,113.19,3990.0,845.73
+2023-03-03,North America,Apparel,Mid-Market,4312.87,0.0,45.0,78,156.28,3510.0,506.65
+2023-03-04,North America,Home & Office,Mid-Market,2371.49,5.0,150.0,56,112.93,7980.0,3907.87
+2023-03-04,Asia-Pacific,Industrial Supplies,Enterprise,1736.08,5.0,299.0,36,78.13,10225.8,4717.29
+2023-03-05,Europe,Electronics,Mid-Market,1785.46,5.0,599.0,36,75.59,20485.8,10699.46
+2023-03-06,Asia-Pacific,Apparel,Small Business,1320.26,0.0,95.0,32,69.75,3040.0,1008.86
+2023-03-06,Europe,Electronics,Mid-Market,1623.42,25.0,95.0,55,114.36,3918.75,1171.7
+2023-03-07,North America,Apparel,Small Business,1256.29,15.0,299.0,48,97.47,12199.2,5431.03
+2023-03-08,Asia-Pacific,Industrial Supplies,Small Business,917.54,5.0,150.0,22,51.64,3135.0,1278.14
+2023-03-09,Asia-Pacific,Industrial Supplies,Enterprise,1651.91,10.0,45.0,35,78.0,1417.5,234.3
+2023-03-09,Europe,Home & Office,Mid-Market,1206.48,0.0,95.0,37,80.51,3515.0,1616.22
+2023-03-10,Asia-Pacific,Electronics,Enterprise,1690.28,5.0,45.0,43,96.38,1838.25,371.41
+2023-03-11,Europe,Electronics,Small Business,1831.26,10.0,95.0,38,87.07,3249.0,1211.96
+2023-03-12,Europe,Electronics,Mid-Market,1729.93,5.0,95.0,35,76.26,3158.75,1291.0
+2023-03-12,Europe,Electronics,Mid-Market,881.37,25.0,150.0,51,107.91,5737.5,1922.1
+2023-03-13,North America,Industrial Supplies,Small Business,1146.56,10.0,95.0,25,61.5,2137.5,582.62
+2023-03-14,North America,Home & Office,Mid-Market,1217.34,5.0,45.0,37,80.41,1581.75,392.44
+2023-03-15,North America,Electronics,Small Business,2132.4,15.0,95.0,44,91.21,3553.0,991.55
+2023-03-15,Europe,Apparel,Mid-Market,2083.57,0.0,299.0,56,115.78,16744.0,7988.79
+2023-03-16,North America,Apparel,Enterprise,988.65,5.0,150.0,62,126.25,8835.0,4231.78
+2023-03-17,Europe,Apparel,Mid-Market,732.53,5.0,95.0,53,,4783.25,1769.56
+2023-03-17,Latin America,Apparel,Small Business,3635.09,5.0,299.0,62,127.48,17611.1,9006.97
+2023-03-18,North America,Electronics,Mid-Market,1699.75,15.0,299.0,46,96.3,11690.9,4278.79
+2023-03-19,Europe,Home & Office,Small Business,683.54,5.0,45.0,26,59.5,1111.5,256.69
+2023-03-20,Asia-Pacific,Industrial Supplies,Small Business,1064.96,15.0,45.0,33,74.62,1262.25,148.32
+2023-03-20,North America,Industrial Supplies,Enterprise,2171.73,10.0,150.0,43,93.17,5805.0,2410.84
+2023-03-21,North America,Electronics,Small Business,3236.48,5.0,299.0,44,91.85,12498.2,5750.85
+2023-03-22,North America,Industrial Supplies,Enterprise,2996.26,15.0,599.0,48,103.26,24439.2,8993.59
+2023-03-23,North America,Electronics,Enterprise,1667.98,0.0,299.0,43,88.86,12857.0,7045.83
+2023-03-23,Latin America,Electronics,Enterprise,1402.19,0.0,150.0,33,73.24,4950.0,1943.41
+2023-03-24,Asia-Pacific,Home & Office,Small Business,840.36,5.0,95.0,29,66.68,2617.25,941.39
+2023-03-25,Europe,Home & Office,Mid-Market,1456.27,0.0,45.0,41,87.53,1845.0,453.48
+2023-03-25,Asia-Pacific,Home & Office,Enterprise,896.22,0.0,45.0,39,84.07,1755.0,718.49
+2023-03-26,Asia-Pacific,Electronics,Mid-Market,1151.83,10.0,95.0,33,78.14,2821.5,863.88
+2023-03-27,North America,Apparel,Mid-Market,2033.29,5.0,150.0,53,108.7,7552.5,2944.79
+2023-03-28,Asia-Pacific,Electronics,Enterprise,1253.39,5.0,150.0,42,95.48,5985.0,2270.95
+2023-03-28,Europe,Electronics,Small Business,1214.63,25.0,150.0,43,93.27,4837.5,1820.33
+2023-03-29,Asia-Pacific,Apparel,Small Business,1367.72,10.0,95.0,56,115.98,4788.0,2183.65
+2023-03-30,Asia-Pacific,Apparel,Mid-Market,3877.91,15.0,150.0,80,159.95,10200.0,3599.16
+2023-03-31,North America,Apparel,Small Business,795.94,0.0,45.0,32,77.66,1440.0,555.22
+2023-03-31,North America,Industrial Supplies,Mid-Market,1589.86,10.0,95.0,33,72.41,2821.5,835.04
+2023-04-01,North America,Industrial Supplies,Small Business,2876.97,15.0,150.0,46,95.56,5865.0,1340.74
+2023-04-02,Europe,Home & Office,Mid-Market,1365.86,10.0,150.0,45,94.49,6075.0,2542.67
+2023-04-02,Asia-Pacific,Electronics,Mid-Market,2352.1,10.0,599.0,49,103.26,26415.9,10264.19
+2023-04-03,Asia-Pacific,Home & Office,Enterprise,707.26,5.0,95.0,42,87.15,3790.5,1930.39
+2023-04-04,North America,Home & Office,Small Business,1272.53,0.0,95.0,26,61.84,2470.0,1039.59
+2023-04-05,Europe,Electronics,Mid-Market,942.89,5.0,95.0,26,,2346.5,1046.32
+2023-04-05,Europe,Industrial Supplies,Enterprise,,5.0,95.0,25,60.3,2256.25,789.24
+2023-04-06,North America,Home & Office,Enterprise,1372.43,15.0,299.0,57,117.01,14486.55,4887.49
+2023-04-07,North America,Electronics,Mid-Market,1437.94,0.0,150.0,31,69.56,4650.0,2293.33
+2023-04-08,North America,Electronics,Mid-Market,2024.97,25.0,299.0,55,115.8,12333.75,3637.85
+2023-04-08,Latin America,Industrial Supplies,Mid-Market,390.36,25.0,45.0,40,85.35,1350.0,325.16
+2023-04-09,North America,Electronics,Small Business,1042.47,0.0,299.0,27,67.29,8073.0,3379.45
+2023-04-10,Europe,Apparel,Enterprise,1541.44,5.0,45.0,65,135.87,2778.75,1033.76
+2023-04-11,Asia-Pacific,Home & Office,Mid-Market,502.01,20.0,299.0,42,91.11,10046.4,4407.19
+2023-04-11,North America,Home & Office,Enterprise,1841.25,25.0,95.0,69,139.18,4916.25,1665.71
+2023-04-12,Latin America,Home & Office,Small Business,1033.11,5.0,95.0,31,72.86,2797.75,1096.92
+2023-04-13,Latin America,Industrial Supplies,Small Business,1283.79,5.0,95.0,22,56.79,1985.5,684.66
+2023-04-13,North America,Electronics,Mid-Market,2065.55,5.0,299.0,39,83.59,11077.95,4291.98
+2023-04-14,Europe,Industrial Supplies,Mid-Market,2399.4,10.0,45.0,39,84.15,1579.5,34.25
+2023-04-15,North America,Home & Office,Mid-Market,1866.11,0.0,95.0,42,87.96,3990.0,1471.98
+2023-04-16,North America,Electronics,Mid-Market,784.55,10.0,299.0,32,73.42,8611.2,3751.04
+2023-04-16,North America,Apparel,Small Business,1825.02,0.0,95.0,44,95.53,4180.0,1898.62
+2023-04-17,Europe,Industrial Supplies,Mid-Market,1879.34,0.0,45.0,30,,1350.0,183.75
+2023-04-18,Europe,Industrial Supplies,Mid-Market,1717.75,5.0,95.0,29,66.29,2617.25,606.48
+2023-04-19,North America,Apparel,Mid-Market,2571.29,5.0,95.0,68,134.71,6137.0,1966.13
+2023-04-19,North America,Apparel,Small Business,1455.03,5.0,299.0,41,87.0,11646.05,4648.76
+2023-04-20,Latin America,Industrial Supplies,Mid-Market,2527.45,5.0,150.0,33,75.5,4702.5,1403.89
+2023-04-21,North America,Industrial Supplies,Enterprise,2520.65,5.0,95.0,43,90.93,3880.75,1462.52
+2023-04-21,North America,Industrial Supplies,Mid-Market,1902.75,0.0,599.0,27,63.0,16173.0,8613.33
+2023-04-22,Europe,Industrial Supplies,Small Business,1601.13,5.0,95.0,28,62.15,2527.0,999.32
+2023-04-23,Latin America,Industrial Supplies,Enterprise,1722.14,25.0,45.0,44,94.57,1485.0,77.75
+2023-04-24,North America,Industrial Supplies,Enterprise,2815.95,5.0,95.0,48,101.31,4332.0,1628.42
+2023-04-24,Europe,Electronics,Enterprise,2215.59,5.0,95.0,50,103.54,4512.5,1618.2
+2023-04-25,Asia-Pacific,Apparel,Mid-Market,831.8,10.0,45.0,49,102.82,1984.5,567.77
+2023-04-26,North America,Apparel,Mid-Market,1674.04,25.0,299.0,68,137.76,15249.0,3892.86
+2023-04-27,Asia-Pacific,Electronics,Mid-Market,919.39,0.0,150.0,32,70.97,4800.0,2039.75
+2023-04-27,North America,Industrial Supplies,Mid-Market,1018.49,10.0,95.0,27,60.65,2308.5,606.11
+2023-04-28,Europe,Electronics,Mid-Market,1173.35,10.0,150.0,35,81.61,4725.0,2207.61
+2023-04-29,Europe,Electronics,Mid-Market,672.37,10.0,150.0,27,62.33,3645.0,1787.18
+2023-04-29,Europe,Industrial Supplies,Small Business,890.26,0.0,299.0,16,43.61,4784.0,2129.65
+2023-04-30,North America,Electronics,Mid-Market,2633.47,10.0,299.0,49,105.22,13185.9,5926.02
+2023-05-01,Asia-Pacific,Industrial Supplies,Small Business,1015.48,0.0,95.0,20,58.06,1900.0,755.82
+2023-05-02,North America,Industrial Supplies,Mid-Market,2030.03,10.0,150.0,34,73.71,4590.0,1715.65
+2023-05-02,North America,Home & Office,Enterprise,1514.34,10.0,150.0,51,107.7,6885.0,3029.12
+2023-05-03,North America,Electronics,Mid-Market,1790.03,0.0,150.0,36,78.38,5400.0,2299.85
+2023-05-04,Europe,Electronics,Mid-Market,1823.81,15.0,45.0,50,103.92,1912.5,304.08
+2023-05-05,Europe,Industrial Supplies,Mid-Market,870.95,0.0,45.0,16,42.36,720.0,116.56
+2023-05-05,North America,Apparel,Enterprise,2024.76,15.0,95.0,81,158.55,6540.75,2021.53
+2023-05-06,Europe,Industrial Supplies,Enterprise,743.51,5.0,95.0,27,63.52,2436.75,1012.4
+2023-05-07,North America,Electronics,Small Business,995.25,0.0,45.0,26,58.85,1170.0,350.23
+2023-05-08,Europe,Industrial Supplies,Enterprise,1812.09,0.0,150.0,32,74.49,4800.0,2232.82
+2023-05-08,North America,Home & Office,Small Business,842.82,25.0,45.0,39,85.31,1316.25,226.24
+2023-05-09,Europe,Industrial Supplies,Enterprise,474.38,0.0,150.0,20,51.84,3000.0,1295.75
+2023-05-10,North America,Electronics,Mid-Market,1639.04,0.0,95.0,37,80.67,3515.0,1219.6
+2023-05-10,Latin America,Industrial Supplies,Mid-Market,611.05,5.0,599.0,20,50.27,11381.0,5187.54
+2023-05-11,North America,Home & Office,Mid-Market,1887.87,10.0,95.0,50,105.58,4275.0,1630.71
+2023-05-12,North America,Apparel,Mid-Market,1213.23,5.0,45.0,52,106.27,2223.0,671.0
+2023-05-13,North America,Electronics,Enterprise,1628.56,0.0,150.0,30,68.28,4500.0,1839.36
+2023-05-13,Latin America,Industrial Supplies,Enterprise,1615.05,0.0,299.0,35,76.28,10465.0,5038.78
+2023-05-14,Asia-Pacific,Apparel,Mid-Market,1949.96,0.0,599.0,52,106.82,31148.0,15524.88
+2023-05-15,North America,Electronics,Mid-Market,1835.62,0.0,95.0,37,77.38,3515.0,1313.42
+2023-05-16,Europe,Apparel,Small Business,839.07,5.0,95.0,39,87.88,3519.75,1425.85
+2023-05-16,Asia-Pacific,Industrial Supplies,Small Business,1247.7,10.0,299.0,32,71.23,8611.2,3373.95
+2023-05-17,Europe,Electronics,Small Business,1627.7,0.0,45.0,29,69.53,1305.0,285.09
+2023-05-18,Europe,Electronics,Small Business,2547.6,5.0,150.0,39,87.34,5557.5,1835.46
+2023-05-18,North America,Industrial Supplies,Mid-Market,1843.08,5.0,95.0,30,66.43,2707.5,982.21
+2023-05-19,North America,Electronics,Enterprise,2449.93,25.0,45.0,68,135.22,2295.0,292.72
+2023-05-20,Asia-Pacific,Home & Office,Small Business,1665.94,25.0,95.0,48,106.52,3420.0,405.36
+2023-05-21,Latin America,Electronics,Mid-Market,2232.74,15.0,95.0,52,112.1,4199.0,843.58
+2023-05-21,Europe,Industrial Supplies,Mid-Market,1567.87,0.0,150.0,23,56.34,3450.0,1590.42
+2023-05-22,North America,Electronics,Enterprise,2192.39,0.0,299.0,47,100.11,14053.0,6849.24
+2023-05-23,North America,Apparel,Mid-Market,1184.38,5.0,95.0,53,109.14,4783.25,2223.35
+2023-05-24,Asia-Pacific,Apparel,Mid-Market,2677.29,0.0,299.0,63,129.26,18837.0,9132.25
+2023-05-24,Asia-Pacific,Apparel,Small Business,1749.58,5.0,45.0,47,98.17,2009.25,364.31
+2023-05-25,Asia-Pacific,Industrial Supplies,Mid-Market,674.86,15.0,95.0,26,57.74,2099.5,532.84
+2023-05-26,Asia-Pacific,Electronics,Mid-Market,1652.04,15.0,45.0,43,89.76,1644.75,183.89
+2023-05-27,Europe,Industrial Supplies,Small Business,1845.76,15.0,299.0,39,85.24,9911.85,4081.74
+2023-05-27,North America,Electronics,Enterprise,2055.63,5.0,150.0,47,,6697.5,2628.24
+2023-05-28,North America,Electronics,Mid-Market,3086.69,10.0,150.0,57,117.47,7695.0,2985.72
+2023-05-29,Asia-Pacific,Electronics,Enterprise,1097.15,5.0,299.0,40,84.85,11362.0,4586.64
+2023-05-29,Europe,Home & Office,Mid-Market,3095.96,0.0,150.0,50,103.44,7500.0,2643.37
+2023-05-30,North America,Industrial Supplies,Small Business,1402.4,10.0,599.0,27,65.31,14555.7,6316.35
+2023-05-31,North America,Industrial Supplies,Enterprise,971.84,0.0,150.0,25,60.49,3750.0,1763.85
+2023-06-01,Europe,Home & Office,Small Business,1108.45,5.0,299.0,26,61.78,7385.3,3594.69
+2023-06-01,North America,Electronics,Enterprise,1797.39,5.0,95.0,49,104.96,4422.25,1982.61
+2023-06-02,North America,Apparel,Small Business,903.72,10.0,45.0,45,96.96,1822.5,441.8
+2023-06-03,Europe,Home & Office,Small Business,1193.84,15.0,95.0,46,100.69,3714.5,1272.12
+2023-06-04,Europe,Home & Office,Small Business,1633.79,5.0,45.0,33,73.48,1410.75,262.4
+2023-06-04,Europe,Electronics,Enterprise,2668.06,15.0,150.0,63,127.54,8032.5,2790.15
+2023-06-05,North America,Industrial Supplies,Small Business,2029.57,0.0,95.0,33,71.8,3135.0,916.8
+2023-06-06,Asia-Pacific,Industrial Supplies,Mid-Market,1428.39,5.0,150.0,25,59.14,3562.5,1576.17
+2023-06-06,North America,Electronics,Mid-Market,1793.76,10.0,45.0,45,,1822.5,205.62
+2023-06-07,North America,Electronics,Small Business,1562.29,10.0,45.0,35,80.6,1417.5,104.29
+2023-06-08,Asia-Pacific,Industrial Supplies,Enterprise,778.7,25.0,95.0,39,87.12,2778.75,488.82
+2023-06-09,Europe,Industrial Supplies,Small Business,2873.67,0.0,599.0,35,74.41,20965.0,10536.17
+2023-06-09,Asia-Pacific,Electronics,Enterprise,2686.89,10.0,95.0,58,121.57,4959.0,1782.24
+2023-06-10,Europe,Apparel,Mid-Market,1352.62,10.0,95.0,56,112.12,4788.0,1911.56
+2023-06-11,Europe,Electronics,Mid-Market,1127.22,20.0,150.0,49,105.0,5880.0,2186.16
+2023-06-12,North America,Home & Office,Enterprise,787.67,0.0,150.0,37,80.86,5550.0,2905.57
+2023-06-12,North America,Apparel,Enterprise,1843.58,15.0,95.0,72,146.01,5814.0,1848.04
+2023-06-13,North America,Home & Office,Enterprise,1848.9,10.0,95.0,59,118.54,5044.5,1821.01
+2023-06-14,North America,Industrial Supplies,Mid-Market,940.76,0.0,45.0,21,55.14,945.0,153.96
+2023-06-14,Latin America,Home & Office,Mid-Market,1570.56,5.0,599.0,42,87.67,23900.1,13235.42
+2023-06-15,North America,Electronics,Mid-Market,2001.78,5.0,45.0,43,91.06,1838.25,285.86
+2023-06-16,Asia-Pacific,Apparel,Enterprise,1091.28,10.0,95.0,68,135.4,5814.0,2082.48
+2023-06-17,Europe,Home & Office,Enterprise,1276.5,20.0,45.0,64,126.69,2304.0,378.09
+2023-06-17,Asia-Pacific,Apparel,Mid-Market,1270.78,10.0,45.0,57,117.79,2308.5,506.1
+2023-06-18,Europe,Electronics,Enterprise,969.76,10.0,150.0,43,96.01,5805.0,2181.21
+2023-06-19,Europe,Electronics,Small Business,1288.53,5.0,45.0,28,70.73,1197.0,124.78
+2023-06-20,Europe,Electronics,Small Business,617.1,0.0,45.0,26,61.99,1170.0,427.35
+2023-06-20,North America,Industrial Supplies,Mid-Market,1240.45,0.0,95.0,21,55.03,1995.0,681.27
+2023-06-21,Asia-Pacific,Home & Office,Mid-Market,1249.25,5.0,45.0,48,101.86,2052.0,769.27
+2023-06-22,North America,Apparel,Small Business,1360.35,5.0,45.0,43,93.4,1838.25,628.74
+2023-06-23,North America,Home & Office,Enterprise,1734.27,0.0,299.0,45,95.32,13455.0,7059.48
+2023-06-23,Europe,Apparel,Enterprise,756.05,5.0,150.0,63,128.79,8977.5,4736.8
+2023-06-24,North America,Electronics,Enterprise,827.44,5.0,299.0,36,80.87,10225.8,5212.33
+2023-06-25,Latin America,Apparel,Small Business,957.93,0.0,299.0,39,84.04,11661.0,6363.4
+2023-06-25,Latin America,Industrial Supplies,Enterprise,716.81,5.0,150.0,30,68.85,4275.0,2207.7
+2023-06-26,Latin America,Industrial Supplies,Mid-Market,1822.11,0.0,45.0,29,67.08,1305.0,82.4
+2023-06-27,North America,Industrial Supplies,Small Business,1068.93,20.0,150.0,33,76.05,3960.0,1630.61
+2023-06-28,North America,Industrial Supplies,Small Business,1379.72,15.0,299.0,36,77.67,9149.4,3232.72
+2023-06-28,Latin America,Industrial Supplies,Mid-Market,919.0,10.0,150.0,29,67.1,3915.0,1778.87
+2023-06-29,Europe,Electronics,Enterprise,1179.63,0.0,95.0,37,85.42,3515.0,1247.7
+2023-06-30,Latin America,Electronics,Small Business,1604.35,15.0,45.0,33,76.73,1262.25,-8.44
+2023-07-01,Latin America,Apparel,Mid-Market,1639.15,15.0,299.0,66,136.5,16773.9,6398.4
+2023-07-01,Asia-Pacific,Industrial Supplies,Enterprise,844.9,15.0,150.0,34,76.25,4335.0,1493.27
+2023-07-02,North America,Industrial Supplies,Enterprise,1348.41,0.0,599.0,33,75.04,19767.0,11432.23
+2023-07-03,North America,Home & Office,Small Business,,10.0,45.0,38,85.4,1539.0,285.35
+2023-07-03,Asia-Pacific,Electronics,Mid-Market,1325.68,15.0,45.0,44,97.32,1683.0,201.54
+2023-07-04,North America,Electronics,Small Business,1027.18,10.0,45.0,32,68.7,1296.0,201.16
+2023-07-05,North America,Industrial Supplies,Small Business,2955.11,10.0,150.0,39,82.57,5265.0,1525.17
+2023-07-06,Europe,Home & Office,Mid-Market,1996.69,5.0,45.0,53,113.02,2265.75,576.21
+2023-07-06,Latin America,Electronics,Mid-Market,1671.03,5.0,45.0,44,93.65,1881.0,312.18
+2023-07-07,Europe,Home & Office,Mid-Market,1226.93,0.0,599.0,39,83.86,23361.0,12604.49
+2023-07-08,Europe,Electronics,Mid-Market,2022.26,10.0,45.0,49,100.69,1984.5,310.13
+2023-07-09,North America,Home & Office,Mid-Market,1366.31,0.0,299.0,37,80.49,11063.0,6050.23
+2023-07-09,Europe,Electronics,Small Business,2820.24,5.0,95.0,40,84.2,3610.0,775.23
+2023-07-10,Latin America,Industrial Supplies,Mid-Market,2111.57,0.0,299.0,31,74.98,9269.0,4762.81
+2023-07-11,North America,Electronics,Small Business,1175.66,5.0,150.0,30,68.96,4275.0,1960.32
+2023-07-11,Europe,Home & Office,Mid-Market,2676.77,0.0,299.0,49,103.08,14651.0,6791.74
+2023-07-12,Asia-Pacific,Electronics,Mid-Market,1229.83,10.0,299.0,40,88.18,10764.0,4213.58
+2023-07-13,Asia-Pacific,Electronics,Mid-Market,3032.1,15.0,45.0,58,121.32,2218.5,52.68
+2023-07-14,Europe,Home & Office,Mid-Market,2740.23,0.0,45.0,47,101.49,2115.0,408.81
+2023-07-14,Asia-Pacific,Home & Office,Mid-Market,1600.46,0.0,95.0,42,92.75,3990.0,1900.57
+2023-07-15,North America,Industrial Supplies,Enterprise,629.18,0.0,150.0,25,58.74,3750.0,1608.07
+2023-07-16,North America,Electronics,Mid-Market,1545.24,20.0,299.0,49,102.6,11720.8,3206.35
+2023-07-17,Asia-Pacific,Industrial Supplies,Enterprise,802.48,5.0,95.0,31,72.34,2797.75,989.01
+2023-07-17,Asia-Pacific,Apparel,Mid-Market,1041.85,5.0,150.0,48,100.35,6840.0,3102.16
+2023-07-18,Asia-Pacific,Industrial Supplies,Mid-Market,1078.87,0.0,45.0,24,58.19,1080.0,173.68
+2023-07-19,Latin America,Electronics,Mid-Market,799.1,10.0,299.0,31,71.6,8342.1,3793.29
+2023-07-20,Europe,Home & Office,Small Business,1547.85,15.0,599.0,42,92.17,21384.3,8861.02
+2023-07-20,Europe,Electronics,Mid-Market,984.37,15.0,95.0,38,79.84,3068.5,1040.2
+2023-07-21,Asia-Pacific,Electronics,Mid-Market,1255.85,10.0,95.0,35,79.43,2992.5,1045.86
+2023-07-22,Europe,Apparel,Mid-Market,1083.18,0.0,45.0,46,97.33,2070.0,633.18
+2023-07-22,Asia-Pacific,Electronics,Mid-Market,1737.58,0.0,150.0,34,77.61,5100.0,2145.02
+2023-07-23,Asia-Pacific,Home & Office,Enterprise,1681.85,0.0,95.0,52,110.15,4940.0,2198.7
+2023-07-24,Asia-Pacific,Industrial Supplies,Enterprise,1209.84,0.0,45.0,26,65.02,1170.0,289.21
+2023-07-25,North America,Industrial Supplies,Mid-Market,1775.99,0.0,95.0,23,59.11,2185.0,795.52
+2023-07-25,North America,Home & Office,Mid-Market,2357.06,0.0,95.0,51,109.49,4845.0,1784.41
+2023-07-26,North America,Electronics,Enterprise,436.26,5.0,95.0,30,71.89,2707.5,1288.24
+2023-07-27,Europe,Electronics,Enterprise,1054.27,20.0,150.0,50,105.58,6000.0,2464.2
+2023-07-28,North America,Home & Office,Enterprise,876.55,10.0,45.0,52,108.66,2106.0,612.71
+2023-07-28,Europe,Electronics,Small Business,1010.29,15.0,150.0,35,79.75,4462.5,1493.73
+2023-07-29,Europe,Home & Office,Mid-Market,392.76,10.0,150.0,42,92.06,5670.0,2248.96
+2023-07-30,North America,Electronics,Mid-Market,426.31,0.0,95.0,25,59.38,2375.0,1079.64
+2023-07-30,Europe,Electronics,Enterprise,267.61,10.0,45.0,33,75.21,1336.5,401.24
+2023-07-31,North America,Home & Office,Mid-Market,1100.47,0.0,150.0,43,92.33,6450.0,2596.64
+2023-08-01,North America,Electronics,Enterprise,1085.9,10.0,599.0,43,90.69,23181.3,9397.02
+2023-08-02,Asia-Pacific,Home & Office,Enterprise,2506.26,5.0,45.0,59,123.78,2522.25,456.78
+2023-08-02,North America,Industrial Supplies,Mid-Market,1493.55,25.0,95.0,49,103.31,3491.25,940.48
+2023-08-03,North America,Industrial Supplies,Enterprise,423.42,0.0,45.0,21,56.9,945.0,264.91
+2023-08-04,Europe,Electronics,Enterprise,1755.9,0.0,150.0,41,85.55,6150.0,2912.58
+2023-08-05,Asia-Pacific,Electronics,Enterprise,5797.33,20.0,45.0,97,188.49,3492.0,-24.51
+2023-08-05,North America,Electronics,Enterprise,437.13,0.0,95.0,28,65.47,2660.0,1244.83
+2023-08-06,Europe,Industrial Supplies,Enterprise,2841.58,10.0,150.0,48,103.67,6480.0,2724.55
+2023-08-07,North America,Industrial Supplies,Mid-Market,1370.71,10.0,150.0,33,75.2,4455.0,1330.59
+2023-08-08,North America,Electronics,Small Business,1142.67,15.0,95.0,39,85.82,3149.25,968.74
+2023-08-08,Europe,Apparel,Mid-Market,1062.23,25.0,95.0,63,126.15,4488.75,1203.04
+2023-08-09,Europe,Electronics,Mid-Market,1624.59,25.0,150.0,47,97.29,5287.5,1270.56
+2023-08-10,Europe,Home & Office,Enterprise,1147.23,0.0,45.0,43,93.05,1935.0,636.88
+2023-08-10,Asia-Pacific,Industrial Supplies,Small Business,787.91,15.0,45.0,23,53.67,879.75,210.12
+2023-08-11,Latin America,Apparel,Mid-Market,1080.93,10.0,299.0,54,111.14,14531.4,6208.67
+2023-08-12,Europe,Industrial Supplies,Enterprise,1645.39,10.0,45.0,40,88.0,1620.0,207.29
+2023-08-13,North America,Industrial Supplies,Mid-Market,1892.91,0.0,150.0,26,59.84,3900.0,1563.13
+2023-08-13,Asia-Pacific,Electronics,Enterprise,2972.26,10.0,299.0,54,115.41,14531.4,5380.43
+2023-08-14,North America,Industrial Supplies,Mid-Market,1464.52,25.0,95.0,46,100.25,3277.5,914.32
+2023-08-15,Europe,Electronics,Mid-Market,2418.94,20.0,95.0,59,118.06,4484.0,1333.17
+2023-08-16,North America,Apparel,Small Business,1277.57,5.0,150.0,38,81.54,5415.0,2596.06
+2023-08-16,North America,Home & Office,Mid-Market,1358.81,0.0,299.0,41,84.23,12259.0,6247.42
+2023-08-17,Latin America,Industrial Supplies,Mid-Market,1326.02,5.0,299.0,31,69.23,8805.55,3519.57
+2023-08-18,Asia-Pacific,Home & Office,Small Business,1543.81,15.0,150.0,48,102.93,6120.0,1856.97
+2023-08-18,Europe,Industrial Supplies,Enterprise,2042.2,10.0,45.0,45,95.17,1822.5,290.5
+2023-08-19,Europe,Home & Office,Enterprise,1125.04,5.0,150.0,55,114.92,7837.5,3412.29
+2023-08-20,North America,Industrial Supplies,Mid-Market,899.16,0.0,95.0,20,47.96,1900.0,661.82
+2023-08-21,North America,Electronics,Mid-Market,2114.85,5.0,95.0,42,92.2,3790.5,1429.23
+2023-08-21,North America,Electronics,Mid-Market,2047.95,5.0,45.0,40,85.89,1710.0,346.72
+2023-08-22,Europe,Electronics,Small Business,2587.7,20.0,45.0,52,108.62,1872.0,-160.75
+2023-08-23,Asia-Pacific,Electronics,Mid-Market,1043.92,10.0,150.0,41,88.61,5535.0,2155.71
+2023-08-24,Europe,Apparel,Mid-Market,1256.44,5.0,95.0,49,100.66,4422.25,1460.21
+2023-08-24,North America,Electronics,Mid-Market,2150.26,5.0,95.0,39,82.89,3519.75,1229.59
+2023-08-25,Latin America,Apparel,Small Business,1118.92,0.0,95.0,41,90.74,3895.0,1555.78
+2023-08-26,Asia-Pacific,Electronics,Small Business,1857.45,25.0,299.0,53,111.2,11885.25,4441.75
+2023-08-26,Europe,Electronics,Small Business,1280.13,5.0,150.0,28,67.5,3990.0,1757.91
+2023-08-27,Europe,Industrial Supplies,Enterprise,1620.69,5.0,95.0,37,82.25,3339.25,1175.93
+2023-08-28,Europe,Industrial Supplies,Mid-Market,780.16,5.0,45.0,25,60.29,1068.75,309.48
+2023-08-29,North America,Home & Office,Enterprise,1455.95,10.0,95.0,60,119.55,5130.0,2223.15
+2023-08-29,North America,Home & Office,Enterprise,218.57,10.0,299.0,45,95.46,12109.5,6046.84
+2023-08-30,Asia-Pacific,Industrial Supplies,Enterprise,2336.04,10.0,150.0,47,99.55,6345.0,2803.64
+2023-08-31,North America,Electronics,Mid-Market,1966.67,0.0,95.0,44,98.11,4180.0,1476.55
+2023-09-01,North America,Apparel,Mid-Market,870.68,5.0,150.0,52,109.97,7410.0,3386.58
+2023-09-01,North America,Apparel,Enterprise,2865.19,0.0,95.0,73,149.47,6935.0,3197.2
+2023-09-02,North America,Industrial Supplies,Mid-Market,2272.46,10.0,299.0,42,91.8,11302.2,5295.67
+2023-09-03,Asia-Pacific,Electronics,Mid-Market,798.46,0.0,95.0,25,58.58,2375.0,1130.28
+2023-09-04,Asia-Pacific,Industrial Supplies,Mid-Market,1084.4,10.0,45.0,37,81.83,1498.5,326.57
+2023-09-04,Europe,Electronics,Enterprise,820.84,15.0,45.0,45,96.47,1721.25,580.95
+2023-09-05,North America,Electronics,Mid-Market,1641.1,20.0,95.0,49,101.32,3724.0,823.73
+2023-09-06,Europe,Electronics,Small Business,1061.95,5.0,299.0,25,59.23,7101.25,3763.53
+2023-09-06,Europe,Home & Office,Enterprise,490.42,5.0,95.0,46,97.39,4151.5,2020.04
+2023-09-07,North America,Apparel,Enterprise,1355.99,0.0,299.0,63,131.61,18837.0,8314.97
+2023-09-08,Europe,Industrial Supplies,Mid-Market,2077.58,10.0,150.0,37,77.44,4995.0,1579.99
+2023-09-09,North America,Industrial Supplies,Small Business,1469.66,15.0,45.0,36,82.21,1377.0,261.64
+2023-09-09,Europe,Home & Office,Mid-Market,1782.58,0.0,45.0,38,81.53,1710.0,288.21
+2023-09-10,Europe,Electronics,Mid-Market,1533.53,5.0,45.0,37,78.86,1581.75,330.37
+2023-09-11,North America,Home & Office,Mid-Market,1930.39,15.0,150.0,57,119.96,7267.5,2158.94
+2023-09-12,North America,Apparel,Mid-Market,1595.57,20.0,45.0,73,147.86,2628.0,471.23
+2023-09-12,Europe,Electronics,Enterprise,1321.97,0.0,95.0,34,78.71,3230.0,1198.45
+2023-09-13,Europe,Apparel,Mid-Market,1461.39,10.0,95.0,55,115.6,4702.5,1352.9
+2023-09-14,Asia-Pacific,Home & Office,Small Business,2630.62,0.0,150.0,39,89.32,5850.0,2559.15
+2023-09-14,Europe,Home & Office,Mid-Market,1827.59,0.0,45.0,39,86.32,1755.0,345.53
+2023-09-15,North America,Industrial Supplies,Small Business,869.26,20.0,95.0,37,81.29,2812.0,864.69
+2023-09-16,North America,Home & Office,Mid-Market,1450.82,15.0,95.0,56,116.49,4522.0,1883.32
+2023-09-17,Europe,Apparel,Enterprise,1627.93,15.0,95.0,76,154.29,6137.0,2672.06
+2023-09-17,North America,Apparel,Small Business,1301.77,0.0,299.0,43,90.84,12857.0,7067.98
+2023-09-18,Europe,Home & Office,Enterprise,491.86,15.0,45.0,52,107.3,1989.0,594.9
+2023-09-19,Latin America,Electronics,Mid-Market,913.16,5.0,299.0,31,70.18,8805.55,4010.92
+2023-09-20,Europe,Home & Office,Enterprise,1148.7,5.0,150.0,48,97.19,6840.0,2977.93
+2023-09-20,North America,Apparel,Enterprise,3014.3,5.0,150.0,77,153.88,10972.5,5389.85
+2023-09-21,Europe,Electronics,Mid-Market,1739.2,0.0,150.0,30,65.23,4500.0,1883.19
+2023-09-22,Europe,Industrial Supplies,Enterprise,617.59,15.0,95.0,35,78.11,2826.25,802.59
+2023-09-22,Europe,Industrial Supplies,Mid-Market,1340.19,10.0,45.0,32,74.33,1296.0,224.74
+2023-09-23,Latin America,Industrial Supplies,Mid-Market,2446.97,0.0,150.0,36,78.85,5400.0,2043.22
+2023-09-24,North America,Electronics,Enterprise,1054.82,0.0,95.0,34,79.55,3230.0,1216.92
+2023-09-25,Latin America,Industrial Supplies,Enterprise,2186.53,0.0,150.0,35,75.08,5250.0,1910.95
+2023-09-25,Latin America,Apparel,Mid-Market,628.15,0.0,95.0,41,91.18,3895.0,1785.39
+2023-09-26,North America,Electronics,Mid-Market,249.82,10.0,299.0,30,70.35,8073.0,3197.82
+2023-09-27,North America,Electronics,Mid-Market,2330.82,15.0,150.0,53,106.97,6757.5,2421.11
+2023-09-28,North America,Apparel,Mid-Market,1120.78,0.0,45.0,44,99.62,1980.0,544.24
+2023-09-28,North America,Electronics,Small Business,504.24,0.0,95.0,19,49.07,1805.0,842.83
+2023-09-29,North America,Apparel,Mid-Market,1163.0,10.0,150.0,57,115.85,7695.0,3509.02
+2023-09-30,Europe,Home & Office,Mid-Market,1527.07,15.0,150.0,50,102.19,6375.0,2831.28
+2023-10-01,North America,Electronics,Mid-Market,1711.77,5.0,95.0,36,79.36,3249.0,965.56
+2023-10-01,North America,Apparel,Enterprise,327.31,5.0,299.0,56,115.55,15906.8,7964.35
+2023-10-02,Asia-Pacific,Home & Office,Mid-Market,1015.27,10.0,95.0,41,89.01,3505.5,1470.81
+2023-10-03,North America,Home & Office,Small Business,1438.58,0.0,95.0,33,73.8,3135.0,1338.56
+2023-10-03,Asia-Pacific,Home & Office,Mid-Market,1710.03,0.0,299.0,39,86.47,11661.0,4905.94
+2023-10-04,North America,Home & Office,Small Business,864.17,10.0,299.0,38,82.62,10225.8,3961.09
+2023-10-05,North America,Electronics,Small Business,1270.32,10.0,150.0,40,83.13,5400.0,2101.11
+2023-10-06,Europe,Home & Office,Small Business,1053.25,10.0,299.0,34,75.9,9149.4,3804.28
+2023-10-06,Europe,Apparel,Small Business,1550.39,10.0,45.0,51,102.07,2065.5,494.55
+2023-10-07,Asia-Pacific,Electronics,Mid-Market,2293.52,10.0,299.0,45,96.71,12109.5,5266.93
+2023-10-08,Asia-Pacific,Industrial Supplies,Mid-Market,1193.19,0.0,95.0,26,59.84,2470.0,784.68
+2023-10-09,Asia-Pacific,Electronics,Mid-Market,685.93,5.0,45.0,26,62.13,1111.5,387.84
+2023-10-09,North America,Industrial Supplies,Mid-Market,988.72,0.0,45.0,23,59.03,1035.0,249.83
+2023-10-10,North America,Electronics,Mid-Market,2852.23,0.0,95.0,41,86.9,3895.0,1335.73
+2023-10-11,Asia-Pacific,Apparel,Mid-Market,914.92,10.0,95.0,54,114.32,4617.0,1838.62
+2023-10-11,Asia-Pacific,Home & Office,Mid-Market,756.5,15.0,95.0,43,91.53,3472.25,1277.18
+2023-10-12,Latin America,Electronics,Mid-Market,1158.91,25.0,45.0,52,112.11,1755.0,235.03
+2023-10-13,Europe,Electronics,Enterprise,1340.35,10.0,95.0,42,89.87,3591.0,1486.3
+2023-10-14,North America,Electronics,Mid-Market,1084.21,0.0,150.0,30,67.32,4500.0,2015.26
+2023-10-14,Asia-Pacific,Home & Office,Enterprise,630.01,0.0,95.0,39,86.57,3705.0,1844.2
+2023-10-15,North America,Electronics,Small Business,1618.93,15.0,95.0,40,86.13,3230.0,1114.07
+2023-10-16,Latin America,Industrial Supplies,Mid-Market,1551.12,10.0,150.0,35,76.32,4725.0,2109.84
+2023-10-17,Asia-Pacific,Home & Office,Enterprise,1898.63,10.0,299.0,57,116.64,15338.7,5980.52
+2023-10-17,Europe,Electronics,Enterprise,1535.26,15.0,150.0,51,106.71,6502.5,2461.49
+2023-10-18,Asia-Pacific,Industrial Supplies,Mid-Market,2746.21,10.0,95.0,49,105.88,4189.5,1097.51
+2023-10-19,Asia-Pacific,Industrial Supplies,Mid-Market,1964.84,15.0,150.0,39,81.33,4972.5,1421.5
+2023-10-20,North America,Electronics,Mid-Market,1789.87,0.0,45.0,38,83.45,1710.0,320.84
+2023-10-20,Latin America,Electronics,Enterprise,2331.06,10.0,45.0,57,118.85,2308.5,399.86
+2023-10-21,Europe,Electronics,Mid-Market,1492.95,15.0,95.0,42,90.99,3391.5,1099.12
+2023-10-22,Asia-Pacific,Industrial Supplies,Mid-Market,1282.98,0.0,299.0,20,53.62,5980.0,2876.4
+2023-10-22,North America,Industrial Supplies,Mid-Market,1610.67,10.0,45.0,36,79.65,1458.0,172.15
+2023-10-23,Asia-Pacific,Home & Office,Mid-Market,478.02,5.0,45.0,34,75.83,1453.5,532.61
+2023-10-24,North America,Industrial Supplies,Mid-Market,1495.13,25.0,45.0,51,107.98,1721.25,29.17
+2023-10-25,North America,Industrial Supplies,Enterprise,1339.67,0.0,299.0,28,65.6,8372.0,3524.23
+2023-10-25,Latin America,Home & Office,Small Business,1689.93,10.0,150.0,40,86.22,5400.0,2337.79
+2023-10-26,North America,Apparel,Mid-Market,2189.45,0.0,95.0,53,111.43,5035.0,2259.32
+2023-10-27,North America,Electronics,Mid-Market,1813.25,10.0,150.0,46,96.49,6210.0,2247.73
+2023-10-28,Latin America,Electronics,Enterprise,990.03,0.0,95.0,32,71.38,3040.0,1367.75
+2023-10-28,Latin America,Electronics,Mid-Market,2030.88,0.0,150.0,37,80.54,5550.0,2726.28
+2023-10-29,Europe,Electronics,Enterprise,2764.15,5.0,45.0,55,116.71,2351.25,223.59
+2023-10-30,Europe,Home & Office,Mid-Market,2214.77,20.0,299.0,61,118.36,14591.2,6002.78
+2023-10-30,Europe,Apparel,Small Business,718.05,0.0,95.0,34,76.99,3230.0,1231.26
+2023-10-31,North America,Electronics,Mid-Market,1804.68,0.0,150.0,35,78.07,5250.0,2055.78
+2023-11-01,North America,Electronics,Enterprise,773.99,15.0,45.0,46,94.44,1759.5,406.76
+2023-11-02,Europe,Home & Office,Enterprise,1224.41,5.0,95.0,51,107.42,4602.75,2104.82
+2023-11-02,Asia-Pacific,Apparel,Mid-Market,1667.52,20.0,95.0,68,138.35,5168.0,1801.84
+2023-11-03,Asia-Pacific,Electronics,Enterprise,1569.38,0.0,95.0,38,84.58,3610.0,1406.81
+2023-11-04,Asia-Pacific,Home & Office,Enterprise,2195.55,10.0,45.0,60,117.7,2430.0,613.71
+2023-11-05,North America,Electronics,Small Business,2770.2,0.0,150.0,33,77.13,4950.0,1973.54
+2023-11-05,Europe,Electronics,Mid-Market,1743.08,0.0,45.0,35,76.52,1575.0,356.76
+2023-11-06,North America,Apparel,Enterprise,1180.55,10.0,150.0,73,147.77,9855.0,4769.9
+2023-11-07,Europe,Apparel,Small Business,491.36,10.0,299.0,37,83.08,9956.7,4985.09
+2023-11-07,Europe,Electronics,Enterprise,2439.93,15.0,150.0,55,112.25,7012.5,2014.43
+2023-11-08,Asia-Pacific,Apparel,Small Business,1342.96,5.0,150.0,41,90.12,5842.5,2802.4
+2023-11-09,North America,Industrial Supplies,Mid-Market,1375.79,5.0,150.0,31,70.03,4417.5,2123.67
+2023-11-10,North America,Apparel,Small Business,1426.95,5.0,95.0,45,91.86,4061.25,1499.08
+2023-11-10,North America,Home & Office,Mid-Market,1707.17,25.0,299.0,61,127.14,13679.25,3159.57
+2023-11-11,Asia-Pacific,Home & Office,Small Business,1729.81,0.0,95.0,32,71.05,3040.0,1169.46
+2023-11-12,Europe,Home & Office,Small Business,1233.61,0.0,150.0,31,69.09,4650.0,2329.75
+2023-11-13,North America,Industrial Supplies,Enterprise,1336.76,5.0,150.0,27,62.79,3847.5,1484.01
+2023-11-13,North America,Electronics,Small Business,1044.54,10.0,95.0,32,73.14,2736.0,772.43
+2023-11-14,Asia-Pacific,Electronics,Mid-Market,989.66,0.0,95.0,31,70.69,2945.0,1102.54
+2023-11-15,North America,Electronics,Mid-Market,987.32,20.0,95.0,40,88.1,3040.0,830.24
+2023-11-16,Asia-Pacific,Industrial Supplies,Mid-Market,1329.5,0.0,299.0,20,48.32,5980.0,2924.7
+2023-11-16,Asia-Pacific,Electronics,Mid-Market,895.6,20.0,299.0,48,99.92,11481.6,4250.42
+2023-11-17,North America,Industrial Supplies,Enterprise,234.76,0.0,95.0,17,45.37,1615.0,842.84
+2023-11-18,North America,Apparel,Mid-Market,1170.87,10.0,150.0,60,126.8,8100.0,3163.91
+2023-11-18,Latin America,Electronics,Mid-Market,741.43,20.0,299.0,42,90.37,10046.4,3381.61
+2023-11-19,North America,Industrial Supplies,Small Business,1472.11,0.0,45.0,21,54.97,945.0,7.21
+2023-11-20,North America,Home & Office,Small Business,1042.58,25.0,45.0,50,105.08,1687.5,333.89
+2023-11-21,Asia-Pacific,Apparel,Mid-Market,1716.73,5.0,150.0,54,111.23,7695.0,3892.16
+2023-11-21,Latin America,Electronics,Mid-Market,777.23,20.0,299.0,43,91.91,10285.6,3804.35
+2023-11-22,Latin America,Industrial Supplies,Enterprise,543.92,10.0,299.0,28,65.06,7534.8,3097.37
+2023-11-23,Asia-Pacific,Industrial Supplies,Enterprise,1338.31,5.0,95.0,28,66.61,2527.0,746.44
+2023-11-24,North America,Apparel,Enterprise,1147.36,0.0,45.0,60,125.75,2700.0,1128.95
+2023-11-24,North America,Industrial Supplies,Mid-Market,708.13,5.0,95.0,22,55.32,1985.5,835.09
+2023-11-25,Asia-Pacific,Home & Office,Enterprise,1965.55,0.0,45.0,51,109.17,2295.0,599.98
+2023-11-26,Europe,Industrial Supplies,Small Business,845.76,0.0,95.0,13,36.47,1235.0,431.85
+2023-11-26,Europe,Apparel,Mid-Market,966.79,0.0,150.0,51,105.97,7650.0,3254.9
+2023-11-27,Latin America,Home & Office,Mid-Market,2131.97,5.0,45.0,52,107.15,2223.0,480.57
+2023-11-28,North America,Electronics,Mid-Market,1761.46,15.0,299.0,49,103.83,12453.35,4291.56
+2023-11-29,Europe,Apparel,Enterprise,799.63,0.0,95.0,55,113.28,5225.0,2366.75
+2023-11-29,North America,Industrial Supplies,Mid-Market,1196.38,0.0,150.0,18,48.86,2700.0,958.94
+2023-11-30,Europe,Industrial Supplies,Mid-Market,758.81,10.0,45.0,33,72.54,1336.5,406.15
+2023-12-01,North America,Electronics,Mid-Market,2062.72,0.0,95.0,37,81.69,3515.0,1073.27
+2023-12-02,North America,Industrial Supplies,Mid-Market,2062.1,0.0,45.0,28,66.77,1260.0,121.81
+2023-12-02,North America,Home & Office,Small Business,2951.98,0.0,599.0,46,93.67,27554.0,13443.65
+2023-12-03,Europe,Industrial Supplies,Small Business,3460.37,20.0,299.0,58,123.64,13873.6,5391.37
+2023-12-04,Asia-Pacific,Electronics,Mid-Market,1036.66,15.0,95.0,40,86.43,3230.0,1093.35
+2023-12-04,Europe,Industrial Supplies,Mid-Market,1914.55,5.0,45.0,37,77.55,1581.75,280.1
+2023-12-05,Latin America,Apparel,Mid-Market,499.86,10.0,299.0,54,112.52,14531.4,7189.59
+2023-12-06,North America,Electronics,Enterprise,1523.47,5.0,95.0,39,85.27,3519.75,1034.21
+2023-12-07,North America,Apparel,Mid-Market,1694.22,10.0,45.0,59,121.04,2389.5,719.16
+2023-12-07,Asia-Pacific,Home & Office,Enterprise,869.08,10.0,150.0,53,112.38,7155.0,2706.46
+2023-12-08,North America,Apparel,Mid-Market,1005.49,10.0,299.0,47,101.09,12647.7,4599.47
+2023-12-09,Latin America,Industrial Supplies,Mid-Market,2068.35,0.0,45.0,30,69.6,1350.0,219.28
+2023-12-10,North America,Home & Office,Enterprise,1713.26,0.0,45.0,45,96.9,2025.0,477.46
+2023-12-10,Latin America,Industrial Supplies,Small Business,2782.28,5.0,299.0,35,77.79,9941.75,4585.38
+2023-12-11,North America,Apparel,Small Business,2637.38,20.0,45.0,65,135.55,2340.0,357.34
+2023-12-12,Asia-Pacific,Home & Office,Mid-Market,577.44,10.0,45.0,39,82.24,1579.5,544.84
+2023-12-13,Europe,Electronics,Mid-Market,1086.88,15.0,150.0,39,85.48,4972.5,1454.65
+2023-12-13,Latin America,Industrial Supplies,Small Business,823.75,25.0,299.0,33,74.53,7400.25,3155.57
+2023-12-14,North America,Industrial Supplies,Enterprise,1950.53,0.0,95.0,40,88.63,3800.0,1368.64
+2023-12-15,Europe,Industrial Supplies,Small Business,1592.06,10.0,599.0,36,78.11,19407.6,8684.06
+2023-12-15,Latin America,Industrial Supplies,Enterprise,852.42,10.0,150.0,28,61.91,3780.0,1274.75
+2023-12-16,Europe,Home & Office,Small Business,919.77,25.0,45.0,52,108.91,1755.0,450.66
+2023-12-17,Europe,Industrial Supplies,Enterprise,2376.04,25.0,599.0,55,114.56,24708.75,7454.25
+2023-12-18,Europe,Electronics,Small Business,1146.25,10.0,95.0,32,75.58,2736.0,847.73
+2023-12-18,Europe,Home & Office,Small Business,454.76,0.0,95.0,24,55.66,2280.0,969.82
+2023-12-19,Europe,Electronics,Enterprise,814.36,15.0,150.0,42,92.91,5355.0,1647.99
+2023-12-20,Europe,Electronics,Mid-Market,3040.01,0.0,95.0,48,106.13,4560.0,1306.88
+2023-12-21,Latin America,Home & Office,Small Business,2159.65,15.0,45.0,50,104.24,1912.5,354.18
+2023-12-21,North America,Home & Office,Mid-Market,734.04,20.0,45.0,48,98.82,1728.0,429.04
+2023-12-22,North America,Industrial Supplies,Small Business,1523.15,5.0,95.0,22,53.79,1985.5,590.16
+2023-12-23,Latin America,Home & Office,Mid-Market,2100.05,10.0,299.0,50,105.03,13455.0,6149.45
+2023-12-23,Asia-Pacific,Home & Office,Mid-Market,573.15,5.0,150.0,31,71.93,4417.5,2027.48
+2023-12-24,Europe,Electronics,Enterprise,2204.33,5.0,599.0,48,100.22,27314.4,13505.34
+2023-12-25,Europe,Home & Office,Enterprise,1705.92,5.0,95.0,50,108.11,4512.5,1769.87
+2023-12-26,North America,Electronics,Small Business,976.59,15.0,95.0,34,73.97,2745.5,660.93
+2023-12-26,North America,Electronics,Mid-Market,1828.47,20.0,45.0,55,110.52,1980.0,389.46
+2023-12-27,Europe,Industrial Supplies,Mid-Market,1602.25,20.0,45.0,46,100.01,1656.0,41.07
+2023-12-28,North America,Industrial Supplies,Mid-Market,1652.01,0.0,95.0,27,59.05,2565.0,882.18
+2023-12-29,Europe,Industrial Supplies,Mid-Market,1498.18,20.0,150.0,41,88.39,4920.0,1421.66
+2023-12-29,North America,Home & Office,Small Business,903.11,10.0,299.0,41,95.04,11033.1,4282.1
+2023-12-30,Latin America,Home & Office,Small Business,987.3,0.0,599.0,30,68.98,17970.0,9494.57
+2023-12-31,Latin America,Apparel,Mid-Market,1251.29,0.0,45.0,48,99.16,2160.0,744.56
+2024-01-01,Europe,Home & Office,Small Business,1430.03,0.0,299.0,28,65.29,8372.0,4086.13
+2024-01-01,Europe,Home & Office,Small Business,1877.03,20.0,95.0,53,110.3,4028.0,1151.43
+2024-01-02,North America,Electronics,Mid-Market,3072.51,10.0,45.0,56,116.12,2268.0,25.9
+2024-01-03,Asia-Pacific,Electronics,Small Business,,10.0,299.0,33,75.72,8880.3,3242.07
+2024-01-03,Europe,Home & Office,Enterprise,1862.16,0.0,150.0,51,104.72,7650.0,3894.66
+2024-01-04,North America,Home & Office,Enterprise,2052.43,10.0,45.0,59,124.58,2389.5,646.75
+2024-01-05,Latin America,Home & Office,Small Business,1921.28,0.0,95.0,35,78.49,3325.0,1222.79
+2024-01-06,Asia-Pacific,Home & Office,Mid-Market,886.19,5.0,95.0,31,72.25,2797.75,1282.37
+2024-01-06,Latin America,Industrial Supplies,Small Business,2474.96,10.0,150.0,38,82.14,5130.0,1619.8
+2024-01-07,Asia-Pacific,Industrial Supplies,Small Business,2303.55,0.0,95.0,32,,3040.0,1107.42
+2024-01-08,Europe,Industrial Supplies,Enterprise,1488.85,15.0,599.0,39,84.69,19856.85,8225.07
+2024-01-09,Europe,Industrial Supplies,Small Business,912.51,0.0,45.0,17,46.16,765.0,183.88
+2024-01-09,Latin America,Apparel,Mid-Market,1419.55,10.0,95.0,56,113.93,4788.0,1938.54
+2024-01-10,Asia-Pacific,Electronics,Mid-Market,612.28,5.0,95.0,30,67.01,2707.5,1057.92
+2024-01-11,North America,Electronics,Mid-Market,2617.83,10.0,95.0,49,104.58,4189.5,1230.48
+2024-01-11,North America,Electronics,Small Business,,0.0,95.0,20,50.11,1900.0,553.26
+2024-01-12,North America,Industrial Supplies,Enterprise,1221.5,0.0,150.0,31,69.09,4650.0,1805.85
+2024-01-13,Asia-Pacific,Apparel,Mid-Market,2535.22,20.0,299.0,78,154.11,18657.6,7284.75
+2024-01-14,Latin America,Electronics,Mid-Market,2401.34,0.0,299.0,38,84.8,11362.0,6054.54
+2024-01-14,North America,Apparel,Mid-Market,1630.69,15.0,299.0,66,132.54,16773.9,5836.95
+2024-01-15,Europe,Electronics,Mid-Market,2791.69,25.0,299.0,65,131.76,14576.25,3316.09
+2024-01-16,North America,Apparel,Enterprise,872.29,0.0,150.0,58,119.43,8700.0,3811.58
+2024-01-17,Latin America,Home & Office,Enterprise,1631.07,0.0,299.0,44,90.37,13156.0,7142.97
+2024-01-17,Asia-Pacific,Electronics,Mid-Market,875.88,10.0,95.0,38,80.46,3249.0,965.2
+2024-01-18,Asia-Pacific,Home & Office,Small Business,2241.46,25.0,95.0,57,118.27,4061.25,1006.58
+2024-01-19,Europe,Electronics,Enterprise,2206.65,20.0,95.0,59,119.73,4484.0,961.73
+2024-01-19,Europe,Electronics,Enterprise,2879.66,5.0,95.0,61,126.91,5505.25,1551.12
+2024-01-20,North America,Electronics,Small Business,1399.8,15.0,95.0,39,87.13,3149.25,1099.19
+2024-01-21,North America,Industrial Supplies,Enterprise,3233.76,0.0,599.0,43,93.84,25757.0,11042.82
+2024-01-22,Asia-Pacific,Home & Office,Small Business,839.96,25.0,95.0,40,90.64,2850.0,852.97
+2024-01-22,Asia-Pacific,Electronics,Mid-Market,1365.36,25.0,45.0,55,113.83,1856.25,48.59
+2024-01-23,Latin America,Industrial Supplies,Small Business,855.01,0.0,95.0,13,39.7,1235.0,435.44
+2024-01-24,Latin America,Industrial Supplies,Enterprise,1530.99,0.0,45.0,27,62.43,1215.0,110.06
+2024-01-25,Europe,Electronics,Enterprise,892.03,0.0,45.0,32,77.5,1440.0,551.93
+2024-01-25,Asia-Pacific,Home & Office,Mid-Market,2244.17,0.0,45.0,50,108.97,2250.0,440.61
+2024-01-26,Latin America,Electronics,Small Business,1731.07,15.0,95.0,43,92.42,3472.25,987.01
+2024-01-27,Asia-Pacific,Electronics,Mid-Market,804.78,5.0,95.0,30,69.77,2707.5,1092.24
+2024-01-28,North America,Industrial Supplies,Enterprise,2013.65,0.0,150.0,35,80.72,5250.0,2389.87
+2024-01-28,Europe,Electronics,Small Business,2703.76,5.0,150.0,39,,5557.5,1837.49
+2024-01-29,North America,Home & Office,Small Business,1805.97,25.0,95.0,55,112.69,3918.75,1115.02
+2024-01-30,Latin America,Industrial Supplies,Mid-Market,688.29,10.0,95.0,27,65.35,2308.5,832.37
+2024-01-30,Europe,Electronics,Small Business,1305.66,5.0,95.0,32,72.76,2888.0,1157.35
+2024-01-31,North America,Home & Office,Small Business,1909.26,0.0,150.0,39,85.57,5850.0,2108.56
+2024-02-01,Europe,Electronics,Mid-Market,1248.54,25.0,45.0,52,106.93,1755.0,389.89
+2024-02-02,Europe,Apparel,Enterprise,834.62,15.0,45.0,67,132.16,2562.75,925.61
+2024-02-02,North America,Home & Office,Mid-Market,2357.99,0.0,150.0,49,103.67,7350.0,3449.69
+2024-02-03,North America,Industrial Supplies,Enterprise,1223.67,0.0,95.0,27,65.41,2565.0,1008.36
+2024-02-04,Europe,Home & Office,Mid-Market,2704.51,0.0,45.0,47,99.15,2115.0,419.89
+2024-02-05,Europe,Electronics,Mid-Market,1089.65,0.0,45.0,28,68.27,1260.0,322.45
+2024-02-05,Asia-Pacific,Industrial Supplies,Enterprise,1190.48,10.0,299.0,35,76.59,9418.5,3488.74
+2024-02-06,Europe,Apparel,Mid-Market,1049.35,20.0,299.0,66,131.69,15787.2,5391.79
+2024-02-07,Asia-Pacific,Industrial Supplies,Enterprise,1295.38,5.0,150.0,31,70.67,4417.5,1758.46
+2024-02-07,Europe,Industrial Supplies,Small Business,1718.41,15.0,95.0,32,72.43,2584.0,825.38
+2024-02-08,Europe,Apparel,Small Business,856.22,5.0,95.0,39,86.74,3519.75,1351.27
+2024-02-09,Asia-Pacific,Electronics,Enterprise,777.68,10.0,599.0,40,85.45,21564.0,11102.04
+2024-02-10,Europe,Electronics,Small Business,566.48,10.0,599.0,28,68.14,15094.8,6197.9
+2024-02-10,North America,Industrial Supplies,Mid-Market,529.54,0.0,45.0,20,54.93,900.0,318.93
+2024-02-11,North America,Home & Office,Enterprise,692.48,5.0,299.0,48,101.32,13634.4,6721.34
+2024-02-12,Asia-Pacific,Industrial Supplies,Enterprise,1086.1,10.0,45.0,32,75.1,1296.0,297.67
+2024-02-13,Europe,Apparel,Mid-Market,1518.38,0.0,45.0,49,101.09,2205.0,558.26
+2024-02-13,Asia-Pacific,Home & Office,Small Business,1675.91,5.0,150.0,35,80.15,4987.5,2288.72
+2024-02-14,North America,Electronics,Mid-Market,1486.67,5.0,95.0,38,85.49,3429.5,1222.05
+2024-02-15,North America,Industrial Supplies,Enterprise,2566.54,25.0,299.0,63,130.13,14127.75,5419.78
+2024-02-15,North America,Electronics,Enterprise,2928.15,5.0,45.0,53,110.37,2265.75,217.2
+2024-02-16,North America,Industrial Supplies,Mid-Market,1226.38,15.0,95.0,35,72.09,2826.25,666.16
+2024-02-17,Europe,Home & Office,Enterprise,863.33,5.0,299.0,51,105.52,14486.55,7071.5
+2024-02-18,North America,Industrial Supplies,Enterprise,3324.06,15.0,299.0,58,118.15,14740.7,5585.06
+2024-02-18,Europe,Electronics,Enterprise,2321.98,10.0,45.0,54,110.24,2187.0,186.22
+2024-02-19,Latin America,Industrial Supplies,Small Business,2245.96,20.0,95.0,41,89.04,3116.0,603.08
+2024-02-20,North America,Home & Office,Small Business,1065.4,5.0,150.0,35,77.16,4987.5,2160.01
+2024-02-21,Europe,Home & Office,Mid-Market,2035.94,10.0,45.0,50,103.35,2025.0,317.48
+2024-02-21,Asia-Pacific,Electronics,Small Business,,10.0,599.0,31,68.68,16712.1,6923.06
+2024-02-22,North America,Industrial Supplies,Mid-Market,1352.61,5.0,299.0,27,62.17,7669.35,3910.4
+2024-02-23,Europe,Apparel,Mid-Market,1351.53,0.0,45.0,48,103.64,2160.0,588.44
+2024-02-24,Asia-Pacific,Electronics,Enterprise,1753.89,0.0,45.0,39,83.88,1755.0,416.0
+2024-02-24,Latin America,Electronics,Mid-Market,2603.79,0.0,45.0,37,80.57,1665.0,249.41
+2024-02-25,North America,Electronics,Small Business,3448.29,20.0,299.0,62,125.69,14830.4,4241.3
+2024-02-26,Latin America,Industrial Supplies,Mid-Market,1153.93,0.0,45.0,26,62.48,1170.0,284.88
+2024-02-26,Europe,Industrial Supplies,Mid-Market,1530.55,0.0,95.0,20,51.91,1900.0,676.85
+2024-02-27,North America,Home & Office,Mid-Market,1336.91,10.0,95.0,50,98.91,4275.0,1490.29
+2024-02-28,Europe,Electronics,Enterprise,1701.98,5.0,150.0,41,90.84,5842.5,2054.24
+2024-02-29,Latin America,Home & Office,Small Business,1260.71,5.0,45.0,37,84.47,1581.75,294.39
+2024-02-29,Europe,Home & Office,Mid-Market,3189.59,0.0,45.0,54,110.1,2430.0,201.43
+2024-03-01,North America,Home & Office,Mid-Market,1006.56,25.0,299.0,56,113.86,12558.0,3315.57
+2024-03-02,Europe,Apparel,Mid-Market,1154.69,15.0,299.0,60,122.1,15249.0,7656.47
+2024-03-03,North America,Electronics,Mid-Market,1072.89,15.0,150.0,44,92.69,5610.0,2232.65
+2024-03-03,North America,Industrial Supplies,Enterprise,1306.86,5.0,45.0,28,65.85,1197.0,145.73
+2024-03-04,North America,Home & Office,Mid-Market,718.26,15.0,95.0,47,95.71,3795.25,1488.68
+2024-03-05,North America,Home & Office,Enterprise,1082.66,0.0,150.0,47,97.36,7050.0,3225.84
+2024-03-05,North America,Industrial Supplies,Mid-Market,1694.51,0.0,95.0,29,70.28,2755.0,908.53
+2024-03-06,North America,Industrial Supplies,Small Business,1688.89,0.0,299.0,31,68.94,9269.0,4562.72
+2024-03-07,Europe,Apparel,Small Business,1570.15,10.0,150.0,47,102.09,6345.0,2073.89
+2024-03-08,North America,Electronics,Mid-Market,2502.62,5.0,45.0,48,102.11,2052.0,297.19
+2024-03-08,North America,Electronics,Mid-Market,1724.64,5.0,299.0,38,79.78,10793.9,4946.03
+2024-03-09,Asia-Pacific,Industrial Supplies,Enterprise,2466.24,0.0,599.0,41,90.07,24559.0,10354.08
+2024-03-10,Europe,Home & Office,Small Business,3449.46,5.0,45.0,53,110.16,2265.75,162.68
+2024-03-11,Europe,Electronics,Enterprise,2058.81,10.0,95.0,49,102.29,4189.5,1585.94
+2024-03-11,North America,Electronics,Mid-Market,720.06,5.0,95.0,34,76.69,3068.5,1271.21
+2024-03-12,North America,Electronics,Enterprise,1598.4,10.0,95.0,45,96.95,3847.5,1118.96
+2024-03-13,North America,Apparel,Enterprise,1493.37,0.0,45.0,57,119.02,2565.0,747.74
+2024-03-14,North America,Electronics,Mid-Market,2702.54,15.0,150.0,53,112.76,6757.5,1848.72
+2024-03-14,North America,Electronics,Enterprise,1328.97,10.0,599.0,46,98.62,24798.6,10419.8
+2024-03-15,North America,Electronics,Mid-Market,940.44,0.0,95.0,32,69.85,3040.0,1403.12
+2024-03-16,North America,Home & Office,Mid-Market,1112.7,0.0,45.0,37,80.65,1665.0,424.87
+2024-03-16,North America,Electronics,Enterprise,733.95,10.0,150.0,43,98.29,5805.0,2078.82
+2024-03-17,Europe,Home & Office,Mid-Market,230.36,15.0,95.0,37,83.05,2987.75,1338.74
+2024-03-18,North America,Electronics,Enterprise,3196.45,5.0,299.0,55,118.74,15622.75,7805.1
+2024-03-19,North America,Industrial Supplies,Enterprise,1412.23,0.0,95.0,28,68.19,2660.0,785.49
+2024-03-19,Europe,Electronics,Mid-Market,769.69,15.0,45.0,38,83.88,1453.5,270.47
+2024-03-20,Europe,Home & Office,Enterprise,2811.58,10.0,45.0,67,136.2,2713.5,264.44
+2024-03-21,North America,Apparel,Small Business,,5.0,150.0,59,121.13,8407.5,2813.54
+2024-03-22,Asia-Pacific,Industrial Supplies,Enterprise,1516.7,5.0,95.0,32,69.12,2888.0,976.7
+2024-03-22,Europe,Home & Office,Enterprise,700.1,0.0,150.0,41,88.84,6150.0,2829.83
+2024-03-23,North America,Electronics,Mid-Market,1125.6,10.0,45.0,37,84.02,1498.5,330.88
+2024-03-24,Asia-Pacific,Electronics,Mid-Market,1263.02,5.0,95.0,32,71.4,2888.0,1261.49
+2024-03-24,Latin America,Industrial Supplies,Enterprise,1434.14,25.0,95.0,48,102.22,3420.0,625.32
+2024-03-25,North America,Apparel,Mid-Market,819.0,5.0,299.0,49,104.9,13918.45,6637.86
+2024-03-26,North America,Industrial Supplies,Enterprise,2134.12,5.0,299.0,38,81.58,10793.9,4530.1
+2024-03-27,Asia-Pacific,Home & Office,Small Business,430.74,10.0,45.0,32,71.7,1296.0,432.04
+2024-03-27,Asia-Pacific,Industrial Supplies,Mid-Market,2288.59,20.0,95.0,48,99.36,3648.0,816.09
+2024-03-28,North America,Home & Office,Small Business,2504.36,15.0,45.0,52,106.96,1989.0,259.65
+2024-03-29,North America,Electronics,Small Business,1178.66,5.0,95.0,32,70.02,2888.0,1180.22
+2024-03-30,North America,Home & Office,Mid-Market,1358.81,10.0,95.0,43,90.6,3676.5,1514.86
+2024-03-30,Europe,Apparel,Small Business,2644.26,10.0,299.0,56,118.64,15069.6,7100.86
+2024-03-31,Europe,Electronics,Mid-Market,1876.65,5.0,299.0,48,99.57,13634.4,5230.24
+2024-04-01,North America,Industrial Supplies,Small Business,1198.58,0.0,95.0,16,44.05,1520.0,533.4
+2024-04-01,Europe,Electronics,Enterprise,1266.17,5.0,95.0,36,78.79,3249.0,1347.53
+2024-04-02,Asia-Pacific,Home & Office,Mid-Market,1758.34,0.0,299.0,44,96.56,13156.0,6191.99
+2024-04-03,North America,Electronics,Mid-Market,3065.88,20.0,299.0,55,116.62,13156.0,4189.75
+2024-04-04,North America,Home & Office,Mid-Market,1284.63,5.0,45.0,41,90.53,1752.75,560.45
+2024-04-04,Asia-Pacific,Industrial Supplies,Mid-Market,1181.34,25.0,95.0,49,103.81,3491.25,675.89
+2024-04-05,Asia-Pacific,Electronics,Mid-Market,1429.51,5.0,95.0,31,70.34,2797.75,845.17
+2024-04-06,Europe,Industrial Supplies,Enterprise,1433.44,10.0,45.0,31,68.42,1255.5,221.06
+2024-04-07,Europe,Industrial Supplies,Enterprise,1619.92,5.0,45.0,30,72.89,1282.5,206.18
+2024-04-07,North America,Apparel,Mid-Market,1360.84,0.0,45.0,53,108.88,2385.0,646.34
+2024-04-08,Europe,Electronics,Mid-Market,2349.58,5.0,150.0,47,100.93,6697.5,2316.03
+2024-04-09,Europe,Home & Office,Small Business,905.19,0.0,95.0,26,63.92,2470.0,933.25
+2024-04-10,North America,Electronics,Small Business,1701.09,10.0,45.0,39,84.09,1579.5,346.49
+2024-04-10,North America,Apparel,Small Business,1731.27,5.0,45.0,51,108.88,2180.25,576.57
+2024-04-11,North America,Apparel,Mid-Market,945.12,15.0,299.0,64,131.73,16265.6,6637.77
+2024-04-12,North America,Home & Office,Enterprise,1693.44,0.0,299.0,48,104.86,14352.0,7679.52
+2024-04-12,North America,Industrial Supplies,Enterprise,1751.74,0.0,95.0,24,57.26,2280.0,719.51
+2024-04-13,North America,Home & Office,Small Business,326.1,5.0,95.0,24,55.63,2166.0,911.29
+2024-04-14,North America,Industrial Supplies,Mid-Market,862.8,20.0,599.0,35,76.99,16772.0,7063.79
+2024-04-15,North America,Electronics,Enterprise,2743.48,10.0,45.0,55,114.42,2227.5,147.28
+2024-04-15,Asia-Pacific,Industrial Supplies,Mid-Market,1055.8,5.0,45.0,25,60.12,1068.75,152.85
+2024-04-16,Europe,Electronics,Small Business,768.72,5.0,95.0,28,64.61,2527.0,1077.09
+2024-04-17,Europe,Industrial Supplies,Mid-Market,516.83,0.0,45.0,21,48.98,945.0,269.93
+2024-04-18,Asia-Pacific,Industrial Supplies,Mid-Market,,25.0,95.0,40,87.94,2850.0,977.22
+2024-04-18,Europe,Industrial Supplies,Mid-Market,1334.03,10.0,299.0,36,83.74,9687.6,3612.16
+2024-04-19,North America,Electronics,Enterprise,740.74,0.0,150.0,32,73.53,4800.0,2511.3
+2024-04-20,Europe,Electronics,Mid-Market,1887.71,10.0,95.0,44,95.42,3762.0,1470.66
+2024-04-20,Europe,Electronics,Mid-Market,936.75,0.0,299.0,30,70.14,8970.0,4214.16
+2024-04-21,Asia-Pacific,Home & Office,Enterprise,1625.55,25.0,45.0,69,139.99,2328.75,320.57
+2024-04-22,Europe,Electronics,Small Business,2566.61,0.0,45.0,42,92.46,1890.0,142.5
+2024-04-23,North America,Apparel,Mid-Market,2494.96,10.0,150.0,63,129.19,8505.0,3457.25
+2024-04-23,North America,Home & Office,Small Business,1612.9,0.0,150.0,32,71.97,4800.0,2198.06
+2024-04-24,North America,Electronics,Small Business,796.11,10.0,45.0,29,65.61,1174.5,289.84
+2024-04-25,Europe,Home & Office,Enterprise,1376.91,15.0,95.0,60,122.5,4845.0,1708.44
+2024-04-26,Europe,Home & Office,Mid-Market,1636.93,10.0,150.0,53,111.03,7155.0,3044.01
+2024-04-26,North America,Industrial Supplies,Mid-Market,3739.95,10.0,150.0,52,107.97,7020.0,2045.37
+2024-04-27,Latin America,Home & Office,Small Business,514.04,20.0,150.0,36,80.43,4320.0,1335.81
+2024-04-28,Europe,Apparel,Enterprise,1379.18,0.0,95.0,63,129.28,5985.0,2351.16
+2024-04-28,North America,Home & Office,Mid-Market,1857.5,5.0,45.0,49,104.87,2094.75,321.73
+2024-04-29,North America,Apparel,Mid-Market,1481.29,0.0,95.0,45,98.57,4275.0,1925.11
+2024-04-30,North America,Apparel,Enterprise,1556.35,25.0,45.0,82,,2767.5,343.29
+2024-05-01,North America,Electronics,Enterprise,964.6,5.0,299.0,32,69.98,9089.6,4385.43
+2024-05-01,North America,Apparel,Mid-Market,2117.48,10.0,95.0,62,125.91,5301.0,1691.52
+2024-05-02,North America,Electronics,Mid-Market,1433.75,10.0,95.0,37,81.69,3163.5,1066.41
+2024-05-03,North America,Industrial Supplies,Mid-Market,1553.77,0.0,150.0,29,63.53,4350.0,1509.59
+2024-05-04,North America,Home & Office,Mid-Market,2218.03,0.0,95.0,46,100.58,4370.0,1489.12
+2024-05-04,Asia-Pacific,Apparel,Mid-Market,1215.92,0.0,95.0,45,96.28,4275.0,1553.95
+2024-05-05,North America,Apparel,Mid-Market,2434.01,5.0,299.0,65,132.76,18463.25,7513.84
+2024-05-06,Europe,Industrial Supplies,Enterprise,727.67,0.0,299.0,19,51.93,5681.0,2405.35
+2024-05-07,Europe,Industrial Supplies,Small Business,1594.32,0.0,150.0,24,56.94,3600.0,1264.69
+2024-05-07,Latin America,Electronics,Enterprise,935.27,20.0,45.0,47,100.75,1692.0,365.76
+2024-05-08,North America,Electronics,Mid-Market,816.45,25.0,150.0,46,97.58,5175.0,1852.71
+2024-05-09,North America,Home & Office,Enterprise,3049.75,5.0,150.0,66,133.43,9405.0,3999.21
+2024-05-09,Latin America,Electronics,Enterprise,747.61,5.0,45.0,37,80.06,1581.75,643.73
+2024-05-10,Asia-Pacific,Industrial Supplies,Mid-Market,1446.69,0.0,45.0,29,70.53,1305.0,248.23
+2024-05-11,Asia-Pacific,Electronics,Enterprise,717.9,10.0,299.0,39,84.45,10494.9,4683.15
+2024-05-12,North America,Apparel,Small Business,2366.8,15.0,45.0,61,126.2,2333.25,301.08
+2024-05-12,North America,Industrial Supplies,Enterprise,1158.59,0.0,150.0,25,56.25,3750.0,1356.21
+2024-05-13,Europe,Industrial Supplies,Mid-Market,2212.8,0.0,95.0,32,74.96,3040.0,780.22
+2024-05-14,Latin America,Electronics,Mid-Market,1829.15,15.0,95.0,48,103.5,3876.0,1380.6
+2024-05-15,Europe,Apparel,Enterprise,3486.48,10.0,45.0,86,169.99,3483.0,679.25
+2024-05-15,Europe,Apparel,Enterprise,643.43,0.0,299.0,49,102.75,14651.0,7595.29
+2024-05-16,North America,Home & Office,Mid-Market,859.18,10.0,95.0,44,95.0,3762.0,1554.15
+2024-05-17,Asia-Pacific,Industrial Supplies,Mid-Market,2159.38,5.0,95.0,36,84.38,3249.0,847.15
+2024-05-17,North America,Industrial Supplies,Mid-Market,1629.34,5.0,150.0,29,63.67,4132.5,1579.56
+2024-05-18,North America,Electronics,Mid-Market,1257.69,15.0,150.0,38,84.96,4845.0,1676.47
+2024-05-19,Europe,Home & Office,Mid-Market,3192.9,15.0,599.0,71,140.98,36149.65,12757.17
+2024-05-20,Europe,Home & Office,Enterprise,1400.44,5.0,95.0,52,108.56,4693.0,1661.14
+2024-05-20,North America,Electronics,Mid-Market,952.98,20.0,95.0,43,91.9,3268.0,1222.84
+2024-05-21,North America,Home & Office,Small Business,2224.79,5.0,599.0,39,84.34,22192.95,9706.35
+2024-05-22,Europe,Electronics,Mid-Market,1422.17,15.0,150.0,41,88.78,5227.5,1921.49
+2024-05-23,North America,Electronics,Mid-Market,1473.43,5.0,95.0,40,84.73,3610.0,1468.96
+2024-05-23,Europe,Electronics,Mid-Market,1898.74,20.0,45.0,52,110.66,1872.0,333.1
+2024-05-24,North America,Apparel,Small Business,1932.11,20.0,299.0,58,115.81,13873.6,5070.48
+2024-05-25,Europe,Home & Office,Small Business,853.38,0.0,95.0,29,68.28,2755.0,1224.49
+2024-05-26,Europe,Apparel,Mid-Market,1223.8,20.0,150.0,62,125.95,7440.0,2937.24
+2024-05-26,North America,Home & Office,Small Business,685.45,15.0,95.0,42,88.26,3391.5,1120.12
+2024-05-27,North America,Electronics,Enterprise,1640.36,15.0,45.0,55,114.4,2103.75,303.59
+2024-05-28,North America,Home & Office,Enterprise,3025.2,0.0,150.0,59,118.09,8850.0,4110.65
+2024-05-28,North America,Home & Office,Small Business,871.16,15.0,45.0,37,81.68,1415.25,437.43
+2024-05-29,Latin America,Electronics,Small Business,619.29,15.0,95.0,24,55.35,1938.0,525.55
+2024-05-30,North America,Industrial Supplies,Enterprise,1028.66,0.0,95.0,21,53.72,1995.0,883.13
+2024-05-31,Asia-Pacific,Electronics,Enterprise,1252.57,25.0,95.0,52,106.75,3705.0,614.71
+2024-05-31,North America,Industrial Supplies,Enterprise,1939.79,0.0,150.0,33,73.5,4950.0,1945.54
+2024-06-01,Europe,Industrial Supplies,Enterprise,1191.52,0.0,299.0,26,62.39,7774.0,3928.82
+2024-06-02,Asia-Pacific,Electronics,Small Business,1653.78,5.0,150.0,28,63.85,3990.0,1677.42
+2024-06-03,Europe,Electronics,Mid-Market,1102.01,10.0,45.0,36,79.68,1458.0,452.63
+2024-06-03,Europe,Industrial Supplies,Mid-Market,1284.98,10.0,45.0,33,71.37,1336.5,297.43
+2024-06-04,Europe,Home & Office,Mid-Market,937.44,0.0,95.0,37,82.86,3515.0,1719.16
+2024-06-05,North America,Electronics,Enterprise,795.01,25.0,299.0,46,101.33,10315.5,3250.86
+2024-06-05,Latin America,Apparel,Enterprise,1971.12,0.0,299.0,65,137.58,19435.0,10545.12
+2024-06-06,Asia-Pacific,Electronics,Mid-Market,1138.77,0.0,299.0,25,60.18,7475.0,3547.4
+2024-06-07,Latin America,Industrial Supplies,Small Business,1708.48,0.0,95.0,27,65.18,2565.0,819.65
+2024-06-08,North America,Apparel,Small Business,930.19,10.0,95.0,46,94.24,3933.0,1662.85
+2024-06-08,Asia-Pacific,Electronics,Enterprise,1404.66,20.0,95.0,50,108.01,3800.0,1415.84
+2024-06-09,Latin America,Electronics,Small Business,436.43,10.0,45.0,24,59.75,972.0,365.11
+2024-06-10,North America,Electronics,Small Business,1179.39,15.0,45.0,35,77.03,1338.75,330.65
+2024-06-11,North America,Electronics,Small Business,979.18,0.0,299.0,16,46.27,4784.0,2048.94
+2024-06-11,Asia-Pacific,Electronics,Mid-Market,2323.97,5.0,45.0,44,93.69,1881.0,319.87
+2024-06-12,Europe,Industrial Supplies,Mid-Market,732.79,5.0,45.0,22,53.68,940.5,189.37
+2024-06-13,Asia-Pacific,Electronics,Mid-Market,1309.88,5.0,45.0,38,84.35,1624.5,417.94
+2024-06-13,North America,Home & Office,Enterprise,1631.17,0.0,299.0,45,93.87,13455.0,6657.07
+2024-06-14,Asia-Pacific,Apparel,Enterprise,2178.75,10.0,150.0,73,148.44,9855.0,3939.46
+2024-06-15,North America,Industrial Supplies,Enterprise,2044.83,5.0,150.0,33,72.29,4702.5,1609.58
+2024-06-16,North America,Industrial Supplies,Mid-Market,1358.49,15.0,299.0,34,74.1,8641.1,3743.91
+2024-06-16,North America,Electronics,Mid-Market,1447.76,5.0,95.0,32,70.78,2888.0,1183.84
+2024-06-17,Asia-Pacific,Industrial Supplies,Mid-Market,2323.04,0.0,150.0,36,81.32,5400.0,2127.51
+2024-06-18,Europe,Home & Office,Enterprise,1346.44,10.0,45.0,52,107.37,2106.0,611.25
+2024-06-19,Europe,Home & Office,Small Business,1519.03,0.0,45.0,33,71.7,1485.0,340.98
+2024-06-19,North America,Electronics,Small Business,2357.27,20.0,299.0,49,101.99,11720.8,3747.33
+2024-06-20,Asia-Pacific,Apparel,Small Business,3707.15,10.0,150.0,63,128.34,8505.0,2969.45
+2024-06-21,North America,Home & Office,Small Business,1578.7,0.0,95.0,33,72.04,3135.0,1122.6
+2024-06-22,Asia-Pacific,Electronics,Mid-Market,1774.88,25.0,95.0,56,113.5,3990.0,870.51
+2024-06-22,Europe,Home & Office,Small Business,2017.55,5.0,95.0,37,85.82,3339.25,952.98
+2024-06-23,North America,Home & Office,Enterprise,2347.18,0.0,45.0,57,115.88,2565.0,564.72
+2024-06-24,Europe,Industrial Supplies,Mid-Market,2203.14,10.0,45.0,37,80.95,1498.5,67.35
+2024-06-24,North America,Industrial Supplies,Enterprise,1061.19,0.0,45.0,24,57.47,1080.0,215.25
+2024-06-25,Asia-Pacific,Industrial Supplies,Enterprise,1626.81,15.0,95.0,44,93.36,3553.0,833.22
+2024-06-26,Europe,Electronics,Enterprise,2209.99,15.0,299.0,54,113.44,13724.1,5552.84
+2024-06-27,North America,Home & Office,Mid-Market,2568.18,25.0,95.0,69,141.1,4916.25,1105.26
+2024-06-27,Asia-Pacific,Home & Office,Small Business,1310.98,5.0,45.0,34,75.59,1453.5,262.77
+2024-06-28,North America,Electronics,Mid-Market,1608.97,5.0,95.0,38,80.93,3429.5,1186.87
+2024-06-29,Europe,Electronics,Enterprise,1693.2,15.0,299.0,44,,11182.6,5260.03
+2024-06-30,Latin America,Industrial Supplies,Small Business,1425.72,0.0,45.0,16,43.61,720.0,-64.39
+2024-06-30,Europe,Electronics,Mid-Market,1590.13,5.0,45.0,39,88.66,1667.25,470.95
+2024-07-01,North America,Home & Office,Mid-Market,422.83,5.0,95.0,38,78.91,3429.5,1395.63
+2024-07-02,Latin America,Electronics,Mid-Market,4728.97,0.0,150.0,56,116.19,8400.0,2785.49
+2024-07-02,Europe,Electronics,Enterprise,1285.67,5.0,150.0,39,89.04,5557.5,1970.69
+2024-07-03,North America,Electronics,Mid-Market,1332.21,15.0,299.0,44,93.49,11182.6,5386.83
+2024-07-04,North America,Apparel,Small Business,584.14,15.0,599.0,47,99.15,23930.05,9903.17
+2024-07-05,Asia-Pacific,Industrial Supplies,Enterprise,532.09,0.0,150.0,15,42.59,2250.0,1029.99
+2024-07-05,Europe,Apparel,Mid-Market,1747.33,0.0,150.0,50,103.88,7500.0,3587.33
+2024-07-06,Europe,Home & Office,Small Business,2214.03,0.0,95.0,37,80.98,3515.0,1426.89
+2024-07-07,Asia-Pacific,Electronics,Mid-Market,2032.92,20.0,45.0,55,113.32,1980.0,159.56
+2024-07-08,Asia-Pacific,Home & Office,Enterprise,928.94,0.0,599.0,50,103.75,29950.0,15481.92
+2024-07-08,North America,Home & Office,Enterprise,1979.52,10.0,95.0,59,123.66,5044.5,2096.06
+2024-07-09,North America,Industrial Supplies,Enterprise,1322.38,0.0,45.0,24,59.12,1080.0,159.06
+2024-07-10,North America,Electronics,Mid-Market,1173.31,10.0,150.0,39,85.7,5265.0,1898.42
+2024-07-10,Asia-Pacific,Home & Office,Mid-Market,695.49,5.0,95.0,41,90.42,3700.25,1429.68
+2024-07-11,North America,Electronics,Enterprise,986.03,15.0,150.0,46,97.27,5865.0,1824.16
+2024-07-12,Europe,Electronics,Small Business,1765.73,0.0,150.0,26,60.25,3900.0,1598.78
+2024-07-13,Asia-Pacific,Industrial Supplies,Mid-Market,1618.99,10.0,95.0,38,82.19,3249.0,801.97
+2024-07-13,Asia-Pacific,Home & Office,Enterprise,1511.76,0.0,299.0,50,105.0,14950.0,6546.33
+2024-07-14,North America,Home & Office,Mid-Market,409.99,10.0,95.0,36,77.68,3078.0,1377.72
+2024-07-15,Asia-Pacific,Home & Office,Mid-Market,1518.88,20.0,95.0,57,116.6,4332.0,1540.3
+2024-07-16,North America,Home & Office,Enterprise,1053.57,0.0,95.0,47,98.57,4465.0,2025.44
+2024-07-16,Asia-Pacific,Industrial Supplies,Enterprise,1624.3,15.0,150.0,46,102.05,5865.0,2180.91
+2024-07-17,North America,Apparel,Small Business,2379.01,10.0,150.0,56,110.25,7560.0,2769.59
+2024-07-18,North America,Apparel,Mid-Market,1129.14,0.0,95.0,47,99.24,4465.0,1906.75
+2024-07-19,Asia-Pacific,Industrial Supplies,Mid-Market,1468.11,5.0,150.0,33,77.85,4702.5,1720.76
+2024-07-19,North America,Electronics,Mid-Market,3184.22,0.0,45.0,43,92.64,1935.0,124.31
+2024-07-20,North America,Industrial Supplies,Enterprise,1587.55,10.0,299.0,39,86.71,10494.9,5163.55
+2024-07-21,Asia-Pacific,Home & Office,Enterprise,1385.61,15.0,95.0,54,112.4,4360.5,1189.24
+2024-07-21,Asia-Pacific,Electronics,Mid-Market,936.44,0.0,150.0,31,69.47,4650.0,2270.36
+2024-07-22,Europe,Industrial Supplies,Enterprise,2004.2,5.0,45.0,37,77.12,1581.75,95.0
+2024-07-23,Europe,Electronics,Enterprise,858.25,15.0,45.0,48,101.81,1836.0,617.44
+2024-07-24,Europe,Apparel,Small Business,2426.07,20.0,95.0,66,132.25,5016.0,868.0
+2024-07-24,North America,Home & Office,Small Business,1876.47,5.0,299.0,36,78.2,10225.8,5225.93
+2024-07-25,North America,Industrial Supplies,Small Business,1071.37,25.0,95.0,43,91.4,3063.75,928.94
+2024-07-26,North America,Industrial Supplies,Small Business,951.9,5.0,299.0,26,65.29,7385.3,3918.12
+2024-07-27,Latin America,Apparel,Enterprise,963.12,5.0,95.0,64,135.01,5776.0,2325.15
+2024-07-27,Europe,Industrial Supplies,Small Business,,15.0,95.0,24,58.63,1938.0,542.24
+2024-07-28,Europe,Industrial Supplies,Enterprise,1728.37,5.0,45.0,34,75.27,1453.5,234.52
+2024-07-29,Europe,Electronics,Small Business,439.68,5.0,299.0,23,54.05,6533.15,2660.56
+2024-07-29,Latin America,Home & Office,Small Business,1344.96,5.0,45.0,33,75.34,1410.75,273.68
+2024-07-30,North America,Electronics,Mid-Market,1304.82,15.0,299.0,48,104.97,12199.2,4670.95
+2024-07-31,Europe,Industrial Supplies,Small Business,1198.77,15.0,299.0,32,72.11,8132.8,2720.45
+2024-08-01,Europe,Home & Office,Mid-Market,1723.03,5.0,299.0,38,78.64,10793.9,5233.87
+2024-08-01,Europe,Industrial Supplies,Enterprise,1072.65,5.0,95.0,31,72.14,2797.75,1122.95
+2024-08-02,North America,Electronics,Mid-Market,1520.65,5.0,150.0,35,79.97,4987.5,1713.93
+2024-08-03,Asia-Pacific,Electronics,Mid-Market,2425.86,10.0,150.0,48,98.23,6480.0,1922.26
+2024-08-04,Latin America,Industrial Supplies,Enterprise,1815.27,0.0,45.0,31,71.15,1395.0,107.7
+2024-08-04,Europe,Electronics,Mid-Market,1149.37,15.0,150.0,44,95.1,5610.0,1694.74
+2024-08-05,Europe,Electronics,Small Business,1405.11,5.0,45.0,33,74.25,1410.75,362.85
+2024-08-06,Latin America,Electronics,Enterprise,1199.4,5.0,95.0,40,85.42,3610.0,1235.21
+2024-08-07,Asia-Pacific,Apparel,Small Business,1296.18,0.0,45.0,38,85.43,1710.0,511.4
+2024-08-07,North America,Industrial Supplies,Small Business,1542.0,0.0,45.0,22,53.79,990.0,7.58
+2024-08-08,Europe,Home & Office,Small Business,679.16,20.0,95.0,42,87.63,3192.0,1055.92
+2024-08-09,Europe,Electronics,Small Business,597.91,5.0,95.0,21,48.7,1895.25,733.34
+2024-08-09,Europe,Electronics,Mid-Market,897.45,0.0,150.0,29,69.72,4350.0,1970.24
+2024-08-10,Asia-Pacific,Industrial Supplies,Small Business,1759.94,5.0,45.0,30,70.23,1282.5,167.13
+2024-08-11,Latin America,Industrial Supplies,Small Business,1868.82,5.0,95.0,34,76.38,3068.5,1196.57
+2024-08-12,Latin America,Electronics,Enterprise,1993.94,0.0,45.0,46,96.92,2070.0,368.5
+2024-08-12,Europe,Electronics,Mid-Market,915.05,5.0,150.0,29,66.14,4132.5,1573.85
+2024-08-13,North America,Electronics,Mid-Market,1464.26,5.0,150.0,38,81.25,5415.0,2568.39
+2024-08-14,Latin America,Industrial Supplies,Enterprise,1166.27,10.0,150.0,32,71.74,4320.0,1477.42
+2024-08-15,Asia-Pacific,Industrial Supplies,Mid-Market,1321.34,5.0,150.0,30,64.76,4275.0,1657.46
+2024-08-15,North America,Electronics,Mid-Market,1156.5,5.0,95.0,32,71.13,2888.0,1125.18
+2024-08-16,Latin America,Electronics,Enterprise,1581.88,25.0,150.0,55,113.38,6187.5,2064.3
+2024-08-17,Asia-Pacific,Electronics,Mid-Market,1009.07,5.0,95.0,33,75.62,2978.25,992.08
+2024-08-17,Europe,Apparel,Small Business,2304.93,0.0,95.0,39,85.12,3705.0,1172.52
+2024-08-18,Europe,Electronics,Mid-Market,2314.13,0.0,150.0,34,77.79,5100.0,1984.66
+2024-08-19,North America,Industrial Supplies,Enterprise,1735.36,5.0,45.0,35,80.7,1496.25,207.7
+2024-08-20,North America,Industrial Supplies,Enterprise,2184.53,15.0,150.0,47,101.72,5992.5,2428.35
+2024-08-20,North America,Home & Office,Mid-Market,665.47,0.0,150.0,32,73.54,4800.0,2298.87
+2024-08-21,Asia-Pacific,Electronics,Small Business,2365.02,10.0,95.0,37,81.62,3163.5,982.5
+2024-08-22,North America,Electronics,Enterprise,1660.82,0.0,45.0,37,79.64,1665.0,452.11
+2024-08-23,North America,Industrial Supplies,Mid-Market,1038.42,5.0,45.0,27,65.08,1154.25,223.04
+2024-08-23,North America,Industrial Supplies,Enterprise,988.54,15.0,299.0,39,88.56,9911.85,3317.83
+2024-08-24,Europe,Industrial Supplies,Mid-Market,2722.84,5.0,150.0,40,87.68,5700.0,2168.23
+2024-08-25,Latin America,Home & Office,Small Business,2008.27,10.0,45.0,48,105.23,1944.0,405.39
+2024-08-25,North America,Electronics,Mid-Market,1305.06,0.0,95.0,32,69.55,3040.0,1132.36
+2024-08-26,North America,Apparel,Enterprise,661.46,10.0,150.0,60,120.69,8100.0,3037.84
+2024-08-27,Asia-Pacific,Industrial Supplies,Mid-Market,2419.12,0.0,299.0,33,76.11,9867.0,4131.76
+2024-08-28,Europe,Electronics,Enterprise,798.08,15.0,45.0,40,87.53,1530.0,288.39
+2024-08-28,North America,Apparel,Mid-Market,1176.23,0.0,45.0,48,104.03,2160.0,724.07
+2024-08-29,Europe,Industrial Supplies,Mid-Market,1304.22,20.0,299.0,43,92.37,10285.6,3274.34
+2024-08-30,North America,Home & Office,Enterprise,981.26,5.0,45.0,49,101.46,2094.75,819.65
+2024-08-31,North America,Industrial Supplies,Enterprise,1277.15,10.0,45.0,40,86.57,1620.0,400.11
+2024-08-31,Europe,Industrial Supplies,Mid-Market,1395.44,5.0,599.0,28,62.33,15933.4,7833.38
+2024-09-01,Europe,Industrial Supplies,Small Business,1264.87,20.0,150.0,40,84.74,4800.0,1538.88
+2024-09-02,Latin America,Electronics,Small Business,1617.45,0.0,95.0,27,65.54,2565.0,711.64
+2024-09-03,North America,Electronics,Enterprise,2768.37,0.0,45.0,53,112.15,2385.0,313.98
+2024-09-03,Europe,Apparel,Small Business,678.48,5.0,45.0,38,84.13,1624.5,652.24
+2024-09-04,Europe,Electronics,Mid-Market,1504.75,0.0,45.0,34,72.76,1530.0,429.4
+2024-09-05,North America,Home & Office,Mid-Market,802.45,0.0,299.0,39,84.48,11661.0,6085.94
+2024-09-05,Europe,Home & Office,Small Business,644.4,20.0,95.0,41,86.35,3116.0,1140.68
+2024-09-06,North America,Home & Office,Small Business,2110.34,25.0,150.0,58,121.75,6525.0,1593.39
+2024-09-07,Latin America,Industrial Supplies,Small Business,1563.46,5.0,299.0,30,67.83,8521.5,3260.12
+2024-09-08,North America,Apparel,Mid-Market,623.09,20.0,95.0,59,119.03,4484.0,1158.15
+2024-09-08,Europe,Electronics,Mid-Market,1276.61,5.0,45.0,30,69.06,1282.5,221.93
+2024-09-09,North America,Electronics,Small Business,512.8,0.0,95.0,25,58.72,2375.0,939.49
+2024-09-10,Latin America,Electronics,Enterprise,898.64,10.0,299.0,39,88.17,10494.9,4599.01
+2024-09-11,Europe,Apparel,Mid-Market,404.57,10.0,299.0,50,103.53,13455.0,6803.15
+2024-09-11,Europe,Industrial Supplies,Mid-Market,1297.54,25.0,45.0,47,96.8,1586.25,152.61
+2024-09-12,North America,Electronics,Mid-Market,1898.74,0.0,150.0,34,71.89,5100.0,2088.79
+2024-09-13,Asia-Pacific,Industrial Supplies,Enterprise,1812.51,10.0,150.0,37,81.54,4995.0,1622.24
+2024-09-13,North America,Apparel,Enterprise,1160.41,0.0,299.0,59,120.08,17641.0,9592.57
+2024-09-14,Asia-Pacific,Industrial Supplies,Small Business,2154.63,0.0,45.0,22,51.74,990.0,-51.09
+2024-09-15,North America,Apparel,Enterprise,2511.15,0.0,95.0,69,141.58,6555.0,2805.7
+2024-09-16,North America,Electronics,Mid-Market,1912.82,25.0,299.0,56,117.13,12558.0,2855.34
+2024-09-16,North America,Industrial Supplies,Enterprise,1069.64,15.0,95.0,37,81.54,2987.75,998.73
+2024-09-17,Europe,Home & Office,Enterprise,1317.39,15.0,95.0,53,113.13,4279.75,1252.99
+2024-09-18,Europe,Industrial Supplies,Enterprise,2728.9,5.0,45.0,48,102.73,2052.0,159.78
+2024-09-19,North America,Industrial Supplies,Enterprise,1201.5,5.0,95.0,31,69.15,2797.75,1132.92
+2024-09-19,Asia-Pacific,Industrial Supplies,Small Business,1815.07,0.0,95.0,29,65.12,2755.0,897.79
+2024-09-20,Europe,Industrial Supplies,Enterprise,974.74,0.0,299.0,24,59.84,7176.0,3039.45
+2024-09-21,Europe,Electronics,Small Business,2161.41,5.0,95.0,34,76.99,3068.5,928.92
+2024-09-21,Europe,Home & Office,Mid-Market,920.71,15.0,95.0,48,101.74,3876.0,1073.62
+2024-09-22,Europe,Apparel,Mid-Market,1344.1,5.0,150.0,53,108.71,7552.5,3672.02
+2024-09-23,Europe,Apparel,Mid-Market,1786.27,0.0,45.0,50,106.22,2250.0,772.18
+2024-09-24,North America,Electronics,Mid-Market,2979.65,0.0,95.0,49,101.69,4655.0,1323.94
+2024-09-24,North America,Electronics,Small Business,1550.41,0.0,150.0,25,59.8,3750.0,1325.78
+2024-09-25,Asia-Pacific,Electronics,Enterprise,1236.58,5.0,299.0,34,79.09,9657.7,3689.46
+2024-09-26,Latin America,Industrial Supplies,Mid-Market,1193.12,20.0,150.0,43,91.08,5160.0,1533.33
+2024-09-27,North America,Industrial Supplies,Small Business,2119.12,10.0,150.0,34,73.05,4590.0,1230.6
+2024-09-27,North America,Electronics,Small Business,1721.62,15.0,45.0,39,83.09,1491.75,58.56
+2024-09-28,Europe,Home & Office,Small Business,1881.85,5.0,299.0,34,78.19,9657.7,3754.98
+2024-09-29,Europe,Industrial Supplies,Mid-Market,2642.12,5.0,45.0,44,94.71,1881.0,164.72
+2024-09-30,North America,Industrial Supplies,Small Business,1439.3,0.0,150.0,18,47.14,2700.0,1058.18
+2024-09-30,North America,Home & Office,Mid-Market,1667.03,20.0,95.0,58,118.38,4408.0,896.45
+2024-10-01,Asia-Pacific,Home & Office,Mid-Market,1185.53,15.0,299.0,52,109.57,13215.8,5582.86
+2024-10-02,Europe,Home & Office,Enterprise,956.63,0.0,150.0,44,,6600.0,3094.91
+2024-10-02,North America,Electronics,Mid-Market,1047.66,5.0,150.0,32,73.21,4560.0,1983.67
+2024-10-03,North America,Home & Office,Enterprise,352.02,5.0,45.0,37,80.14,1581.75,606.54
+2024-10-04,North America,Industrial Supplies,Mid-Market,1778.13,10.0,95.0,34,74.4,2907.0,868.11
+2024-10-05,Europe,Apparel,Small Business,1696.23,20.0,150.0,59,119.93,7080.0,2932.34
+2024-10-05,North America,Industrial Supplies,Enterprise,1761.21,10.0,150.0,37,80.85,4995.0,1519.54
+2024-10-06,North America,Industrial Supplies,Enterprise,925.94,5.0,45.0,29,67.1,1239.75,332.17
+2024-10-07,Asia-Pacific,Electronics,Enterprise,1056.41,0.0,599.0,36,80.27,21564.0,10689.03
+2024-10-08,North America,Home & Office,Small Business,1039.98,0.0,299.0,32,65.22,9568.0,5215.82
+2024-10-08,Europe,Electronics,Mid-Market,2255.69,0.0,95.0,35,76.38,3325.0,1353.01
+2024-10-09,North America,Electronics,Mid-Market,1524.32,0.0,299.0,39,84.42,11661.0,6102.05
+2024-10-10,North America,Industrial Supplies,Small Business,1432.2,10.0,95.0,32,75.61,2736.0,765.05
+2024-10-10,North America,Apparel,Small Business,1959.71,10.0,95.0,52,106.44,4446.0,1800.13
+2024-10-11,Asia-Pacific,Electronics,Mid-Market,1041.66,0.0,95.0,32,72.93,3040.0,1076.2
+2024-10-12,Asia-Pacific,Home & Office,Mid-Market,1648.76,15.0,150.0,60,125.99,7650.0,3221.54
+2024-10-13,Asia-Pacific,Industrial Supplies,Small Business,3154.28,0.0,150.0,32,69.97,4800.0,1874.15
+2024-10-13,North America,Electronics,Mid-Market,2414.07,5.0,95.0,43,93.19,3880.75,1438.82
+2024-10-14,Europe,Home & Office,Enterprise,1637.54,0.0,150.0,42,89.0,6300.0,3268.4
+2024-10-15,North America,Industrial Supplies,Small Business,1456.94,5.0,150.0,26,60.79,3705.0,1268.47
+2024-10-16,North America,Industrial Supplies,Mid-Market,1754.38,0.0,150.0,29,65.59,4350.0,1534.85
+2024-10-16,Asia-Pacific,Electronics,Enterprise,2563.02,5.0,45.0,50,103.54,2137.5,285.93
+2024-10-17,North America,Home & Office,Mid-Market,2481.71,5.0,299.0,50,110.44,14202.5,7069.59
+2024-10-18,North America,Industrial Supplies,Enterprise,2755.11,25.0,95.0,54,113.89,3847.5,773.31
+2024-10-19,North America,Home & Office,Enterprise,1563.38,0.0,95.0,49,105.4,4655.0,1964.44
+2024-10-19,North America,Electronics,Small Business,437.73,0.0,45.0,22,55.58,990.0,287.27
+2024-10-20,North America,Industrial Supplies,Enterprise,3053.1,0.0,95.0,40,83.79,3800.0,1291.94
+2024-10-21,Europe,Electronics,Mid-Market,955.6,10.0,299.0,37,82.39,9956.7,3996.08
+2024-10-21,Europe,Industrial Supplies,Mid-Market,470.34,0.0,95.0,12,38.75,1140.0,452.52
+2024-10-22,Asia-Pacific,Electronics,Enterprise,1945.36,15.0,150.0,55,112.29,7012.5,2745.28
+2024-10-23,Asia-Pacific,Apparel,Small Business,442.83,5.0,45.0,35,79.93,1496.25,567.9
+2024-10-24,North America,Home & Office,Enterprise,1418.52,5.0,95.0,49,104.61,4422.25,2051.29
+2024-10-24,North America,Electronics,Mid-Market,439.01,10.0,599.0,29,70.9,15633.9,6423.75
+2024-10-25,North America,Electronics,Mid-Market,1202.51,0.0,150.0,29,66.36,4350.0,2084.26
+2024-10-26,Europe,Electronics,Enterprise,2757.93,0.0,45.0,49,101.0,2205.0,292.59
+2024-10-27,North America,Apparel,Enterprise,1646.97,5.0,95.0,63,127.68,5685.75,2690.97
+2024-10-27,Europe,Apparel,Mid-Market,1411.71,10.0,45.0,57,120.47,2308.5,441.63
+2024-10-28,Europe,Home & Office,Small Business,1729.18,0.0,95.0,34,72.54,3230.0,1339.65
+2024-10-29,Europe,Home & Office,Enterprise,276.99,0.0,150.0,34,72.06,5100.0,2243.39
+2024-10-29,Europe,Industrial Supplies,Mid-Market,1030.18,25.0,150.0,47,99.78,5287.5,1254.16
+2024-10-30,North America,Apparel,Mid-Market,1106.8,0.0,45.0,45,95.11,2025.0,549.2
+2024-10-31,Latin America,Home & Office,Small Business,1851.86,15.0,299.0,45,96.02,11436.75,4531.26
+2024-11-01,Asia-Pacific,Home & Office,Mid-Market,853.76,15.0,150.0,44,96.09,5610.0,1940.35
+2024-11-01,North America,Home & Office,Mid-Market,1532.75,0.0,95.0,46,96.69,4370.0,1899.12
+2024-11-02,Asia-Pacific,Industrial Supplies,Mid-Market,1349.38,0.0,95.0,26,58.05,2470.0,1018.3
+2024-11-03,Europe,Electronics,Mid-Market,1057.22,0.0,150.0,26,65.89,3900.0,1750.61
+2024-11-04,Asia-Pacific,Industrial Supplies,Small Business,1090.58,10.0,150.0,30,67.01,4050.0,1798.46
+2024-11-04,Asia-Pacific,Home & Office,Enterprise,1343.68,10.0,95.0,55,111.88,4702.5,1395.02
+2024-11-05,Europe,Industrial Supplies,Mid-Market,510.14,15.0,95.0,30,71.21,2422.5,1042.61
+2024-11-06,North America,Electronics,Small Business,1971.7,20.0,45.0,46,97.03,1656.0,55.09
+2024-11-06,North America,Home & Office,Small Business,952.32,10.0,299.0,34,76.07,9149.4,3813.56
+2024-11-07,Europe,Home & Office,Small Business,1238.29,0.0,95.0,31,71.77,2945.0,1147.96
+2024-11-08,Europe,Industrial Supplies,Small Business,2712.51,0.0,45.0,31,72.97,1395.0,-52.66
+2024-11-09,North America,Electronics,Mid-Market,1986.83,15.0,150.0,54,111.53,6885.0,2895.6
+2024-11-09,North America,Home & Office,Mid-Market,778.64,0.0,299.0,30,72.04,8970.0,4368.52
+2024-11-10,Asia-Pacific,Home & Office,Mid-Market,248.4,0.0,299.0,34,71.93,10166.0,5527.6
+2024-11-11,Latin America,Home & Office,Enterprise,1762.45,10.0,95.0,57,119.12,4873.5,1384.11
+2024-11-12,Europe,Industrial Supplies,Mid-Market,1261.29,5.0,45.0,29,65.52,1239.75,187.73
+2024-11-12,North America,Industrial Supplies,Mid-Market,1536.94,20.0,95.0,45,98.74,3420.0,603.4
+2024-11-13,North America,Industrial Supplies,Enterprise,1957.31,10.0,45.0,39,85.48,1579.5,292.81
+2024-11-14,North America,Electronics,Small Business,2095.4,0.0,299.0,34,74.85,10166.0,5066.1
+2024-11-15,Latin America,Industrial Supplies,Mid-Market,1147.85,20.0,45.0,31,72.13,1116.0,158.02
+2024-11-15,North America,Home & Office,Small Business,1333.46,0.0,95.0,29,68.99,2755.0,1246.04
+2024-11-16,Europe,Electronics,Enterprise,1670.67,5.0,95.0,40,88.28,3610.0,1445.93
+2024-11-17,North America,Electronics,Enterprise,1719.98,5.0,95.0,40,84.94,3610.0,1188.16
+2024-11-17,Europe,Electronics,Mid-Market,1530.11,0.0,150.0,32,71.63,4800.0,2259.46
+2024-11-18,Europe,Industrial Supplies,Enterprise,2577.49,5.0,95.0,43,92.39,3880.75,1198.1
+2024-11-19,Asia-Pacific,Industrial Supplies,Mid-Market,1711.34,0.0,45.0,30,68.92,1350.0,133.46
+2024-11-20,North America,Industrial Supplies,Small Business,1944.39,5.0,95.0,31,72.3,2797.75,754.88
+2024-11-20,North America,Home & Office,Enterprise,1588.9,5.0,95.0,50,100.97,4512.5,1833.13
+2024-11-21,North America,Home & Office,Mid-Market,850.64,15.0,45.0,48,102.07,1836.0,536.59
+2024-11-22,Latin America,Electronics,Mid-Market,1028.6,15.0,150.0,41,88.22,5227.5,2001.71
+2024-11-23,Asia-Pacific,Electronics,Mid-Market,762.07,0.0,150.0,29,65.52,4350.0,2238.44
+2024-11-23,Europe,Home & Office,Small Business,2200.17,5.0,150.0,45,94.52,6412.5,2426.01
+2024-11-24,Europe,Electronics,Small Business,621.25,5.0,299.0,24,57.77,6817.2,3341.74
+2024-11-25,Europe,Electronics,Mid-Market,1308.18,0.0,299.0,28,58.2,8372.0,3567.55
+2024-11-25,North America,Home & Office,Mid-Market,1177.61,15.0,299.0,47,98.2,11945.05,4336.47
+2024-11-26,Latin America,Industrial Supplies,Mid-Market,1163.1,10.0,45.0,29,65.45,1174.5,176.77
+2024-11-27,Europe,Apparel,Small Business,1211.13,0.0,45.0,37,82.67,1665.0,522.59
+2024-11-28,North America,Apparel,Mid-Market,2794.03,5.0,95.0,67,133.99,6046.75,2467.82
+2024-11-28,Europe,Industrial Supplies,Mid-Market,490.62,0.0,299.0,19,48.77,5681.0,2575.78
+2024-11-29,North America,Home & Office,Small Business,2433.24,10.0,599.0,48,104.48,25876.8,11565.42
+2024-11-30,North America,Industrial Supplies,Enterprise,1259.6,0.0,299.0,27,65.59,8073.0,4191.15
+2024-12-01,Asia-Pacific,Industrial Supplies,Small Business,2034.23,25.0,45.0,47,101.4,1586.25,68.37
+2024-12-01,North America,Electronics,Enterprise,1452.36,15.0,299.0,48,100.4,12199.2,5638.83
+2024-12-02,Europe,Home & Office,Mid-Market,801.89,5.0,95.0,35,79.09,3158.75,1161.58
+2024-12-03,North America,Industrial Supplies,Mid-Market,2537.12,10.0,45.0,37,81.13,1498.5,59.9
+2024-12-03,North America,Home & Office,Small Business,2362.35,20.0,95.0,54,111.81,4104.0,944.35
+2024-12-04,North America,Home & Office,Small Business,832.06,10.0,45.0,36,80.62,1458.0,411.64
+2024-12-05,North America,Home & Office,Mid-Market,1822.47,0.0,95.0,41,87.61,3895.0,1455.13
+2024-12-06,Asia-Pacific,Electronics,Mid-Market,,5.0,95.0,32,75.59,2888.0,933.56
+2024-12-06,North America,Home & Office,Mid-Market,635.44,15.0,95.0,46,97.48,3714.5,1141.35
+2024-12-07,Europe,Electronics,Small Business,953.48,10.0,150.0,32,73.84,4320.0,1763.02
+2024-12-08,Europe,Electronics,Mid-Market,2470.82,10.0,299.0,45,98.91,12109.5,5979.87
+2024-12-09,Europe,Electronics,Mid-Market,2056.43,15.0,150.0,52,110.66,6630.0,2386.29
+2024-12-09,Latin America,Industrial Supplies,Enterprise,1217.84,20.0,95.0,46,94.98,3496.0,951.2
+2024-12-10,Asia-Pacific,Electronics,Small Business,2476.04,20.0,299.0,48,102.29,11481.6,3818.74
+2024-12-11,North America,Home & Office,Mid-Market,2281.79,0.0,299.0,44,95.9,13156.0,5941.91
+2024-12-12,North America,Electronics,Mid-Market,954.22,5.0,45.0,35,79.78,1496.25,511.51
+2024-12-12,North America,Apparel,Enterprise,2743.96,10.0,95.0,79,154.97,6754.5,2183.7
+2024-12-13,Europe,Electronics,Small Business,1172.1,15.0,95.0,30,67.69,2422.5,843.7
+2024-12-14,North America,Home & Office,Enterprise,1248.53,10.0,45.0,49,105.19,1984.5,436.94
+2024-12-14,Europe,Apparel,Mid-Market,497.62,0.0,150.0,42,89.08,6300.0,3246.08
+2024-12-15,Europe,Industrial Supplies,Small Business,1041.97,15.0,299.0,27,63.0,6862.05,2449.71
+2024-12-16,North America,Electronics,Mid-Market,1312.88,10.0,45.0,38,86.55,1539.0,427.95
+2024-12-17,Asia-Pacific,Industrial Supplies,Enterprise,1609.01,0.0,299.0,30,68.9,8970.0,4362.07
+2024-12-17,North America,Home & Office,Mid-Market,803.28,5.0,299.0,43,90.95,12214.15,5419.89
+2024-12-18,North America,Home & Office,Small Business,975.54,0.0,299.0,27,61.84,8073.0,4263.35
+2024-12-19,Asia-Pacific,Electronics,Mid-Market,2771.01,5.0,95.0,50,105.67,4512.5,1247.44
+2024-12-20,Europe,Electronics,Small Business,2214.55,0.0,299.0,37,78.93,11063.0,4958.49
+2024-12-20,Europe,Industrial Supplies,Enterprise,2396.63,5.0,95.0,45,95.51,4061.25,1279.81
+2024-12-21,Europe,Home & Office,Mid-Market,1364.07,5.0,150.0,44,94.87,6270.0,2844.1
+2024-12-22,North America,Home & Office,Mid-Market,,10.0,45.0,43,95.0,1741.5,324.81
+2024-12-22,Asia-Pacific,Industrial Supplies,Small Business,1840.61,10.0,45.0,34,77.54,1377.0,90.22
+2024-12-23,Asia-Pacific,Industrial Supplies,Enterprise,,15.0,150.0,55,112.57,7012.5,2327.05
+2024-12-24,Europe,Electronics,Small Business,628.32,0.0,95.0,19,51.56,1805.0,685.29
+2024-12-25,North America,Industrial Supplies,Mid-Market,1092.18,0.0,95.0,28,64.8,2660.0,1085.11
+2024-12-25,Europe,Electronics,Mid-Market,1563.83,15.0,45.0,47,97.13,1797.75,399.49
+2024-12-26,North America,Industrial Supplies,Enterprise,1456.55,0.0,150.0,31,70.46,4650.0,2206.18
+2024-12-27,North America,Industrial Supplies,Small Business,969.58,25.0,45.0,41,91.68,1383.75,310.07
+2024-12-28,Latin America,Apparel,Enterprise,1769.71,15.0,299.0,77,153.93,19569.55,8724.65
+2024-12-28,North America,Electronics,Mid-Market,1112.83,5.0,45.0,26,61.83,1111.5,172.03
+2024-12-29,Latin America,Electronics,Enterprise,1408.33,25.0,45.0,55,117.27,1856.25,102.06
+2024-12-30,Europe,Electronics,Small Business,1734.56,0.0,95.0,32,69.74,3040.0,1228.29
